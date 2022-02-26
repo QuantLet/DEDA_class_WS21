@@ -1,0 +1,11 @@
+Name of QuantLet : DEDA2021/22_CointegrationCryptocurrenciesCovid19
+
+Published in : 'DEDA Class 21/22'
+
+Description : 'Focuses on the cointegration of price and return of cryptocurrencies and macro indicators, pandemic situation and media index'
+
+Keywords : 'crpytocurrencies, Covid-19, cointegration, VECM '
+
+Author : 'Zihan Zhang and Peiqi ZHU'
+
+Submitted: 'February 28 2022, Peiqi ZHU'

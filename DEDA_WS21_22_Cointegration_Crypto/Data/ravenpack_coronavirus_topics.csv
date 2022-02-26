@@ -1,0 +1,1030 @@
+TIMESTAMP_UTC,COUNTRY_CODE,COUNTRY_NAME,TOPIC,TOPIC_RATIO
+2022-01-23 00:00:00.000,XX,Worldwide,Social Distancing,2.67
+2022-01-23 00:00:00.000,XX,Worldwide,Remote Working,0.93
+2022-01-23 00:00:00.000,XX,Worldwide,State of Emergency,1.27
+2022-01-23 00:00:00.000,XX,Worldwide,Crime,2.84
+2022-01-23 00:00:00.000,XX,Worldwide,Layoffs,0.15
+2022-01-23 00:00:00.000,XX,Worldwide,Face Mask,2.00
+2022-01-23 00:00:00.000,XX,Worldwide,Recession,1.52
+2022-01-23 00:00:00.000,XX,Worldwide,Bankruptcy,0.33
+2022-01-23 00:00:00.000,XX,Worldwide,Self-Quarantine,0.56
+2022-01-23 00:00:00.000,XX,Worldwide,School Closures,0.53
+2022-01-23 00:00:00.000,XX,Worldwide,School Reopening,0.32
+2022-01-23 00:00:00.000,XX,Worldwide,Test Positive,10.56
+2022-01-23 00:00:00.000,XX,Worldwide,Test Negative,1.31
+2022-01-23 00:00:00.000,XX,Worldwide,Racism,1.27
+2022-01-23 00:00:00.000,XX,Worldwide,Patient Recovery,0.68
+2022-01-23 00:00:00.000,XX,Worldwide,Confirmed Cases,7.36
+2022-01-23 00:00:00.000,XX,Worldwide,Death Toll Climbing,1.49
+2022-01-23 00:00:00.000,XX,Worldwide,Vaccine,33.46
+2022-01-23 00:00:00.000,XX,Worldwide,Food Shortage,1.76
+2022-01-23 00:00:00.000,XX,Worldwide,Fear,11.84
+2022-01-23 00:00:00.000,XX,Worldwide,Bailout,0.12
+2022-01-23 00:00:00.000,XX,Worldwide,Supply Chain Disruptions,0.37
+2022-01-23 00:00:00.000,XX,Worldwide,Stock Losses,0.67
+2022-01-23 00:00:00.000,XX,Worldwide,Stock Gains,0.28
+2022-01-23 00:00:00.000,XX,Worldwide,Facility Closures,0.11
+2022-01-23 00:00:00.000,XX,Worldwide,Revenue Down,0.26
+2022-01-23 00:00:00.000,XX,Worldwide,Border Closures,0.12
+2022-01-23 00:00:00.000,XX,Worldwide,End of the World,1.86
+2022-01-23 00:00:00.000,XX,Worldwide,Pneumonia,0.39
+2022-01-23 00:00:00.000,XX,Worldwide,Clinical Trials,0.91
+2022-01-23 00:00:00.000,XX,Worldwide,Online Shopping,0.25
+2022-01-23 00:00:00.000,XX,Worldwide,Hospital Beds,0.95
+2022-01-23 00:00:00.000,XX,Worldwide,Cyber Attacks,0.26
+2022-01-23 00:00:00.000,XX,Worldwide,Guns & Ammo,2.18
+2022-01-23 00:00:00.000,XX,Worldwide,Lawsuits,3.10
+2022-01-23 00:00:00.000,XX,Worldwide,Boycott,0.28
+2022-01-23 00:00:00.000,XX,Worldwide,Testing Shortage,0.15
+2022-01-23 00:00:00.000,XX,Worldwide,Testing Availability,0.63
+2022-01-23 00:00:00.000,XX,Worldwide,Mutations,2.35
+2022-01-23 00:00:00.000,XX,Worldwide,Fines,3.50
+2022-01-23 00:00:00.000,XX,Worldwide,Second Wave,0.64
+2022-01-23 00:00:00.000,XX,Worldwide,Furloughs,0.17
+2022-01-23 00:00:00.000,XX,Worldwide,Debt Default,0.27
+2022-01-23 00:00:00.000,XX,Worldwide,Stay at Home,1.67
+2022-01-23 00:00:00.000,XX,Worldwide,Panic,8.44
+2022-01-23 00:00:00.000,XX,Worldwide,Fake News,2.06
+2022-01-23 00:00:00.000,XX,Worldwide,Freedom of Speech,0.43
+2022-01-23 00:00:00.000,XX,Worldwide,Freedom of the Press,0.14
+2022-01-23 00:00:00.000,XX,Worldwide,Asymptomatic,1.69
+2022-01-23 00:00:00.000,XX,Worldwide,Climate Change,1.39
+2022-01-23 00:00:00.000,XX,Worldwide,Spanish Flu,0.27
+2022-01-23 00:00:00.000,XX,Worldwide,Domestic Violence,0.27
+2022-01-23 00:00:00.000,XX,Worldwide,Poverty,1.10
+2022-01-23 00:00:00.000,XX,Worldwide,Remote Education,0.90
+2022-01-23 00:00:00.000,XX,Worldwide,Reinfection,0.18
+2022-01-23 00:00:00.000,XX,Worldwide,War,4.33
+2022-01-23 00:00:00.000,XX,Worldwide,Populism,0.31
+2022-01-23 00:00:00.000,XX,Worldwide,Anger,4.19
+2022-01-23 00:00:00.000,XX,Worldwide,Conspiracy Theories,1.41
+2022-01-23 00:00:00.000,XX,Worldwide,Cold War,0.34
+2022-01-23 00:00:00.000,XX,Worldwide,Boredom,0.24
+2022-01-23 00:00:00.000,XX,Worldwide,Joy,2.50
+2022-01-23 00:00:00.000,XX,Worldwide,Charity,2.00
+2022-01-23 00:00:00.000,XX,Worldwide,Surveillance,3.30
+2022-01-23 00:00:00.000,XX,Worldwide,Inflation,0.47
+2022-01-23 00:00:00.000,XX,Worldwide,Mental Health,4.28
+2022-01-23 00:00:00.000,XX,Worldwide,Crude Oil,0.67
+2022-01-23 00:00:00.000,XX,Worldwide,Herd Immunity,0.37
+2022-01-23 00:00:00.000,XX,Worldwide,Immigration,0.69
+2022-01-23 00:00:00.000,XX,Worldwide,Elections,4.98
+2022-01-23 00:00:00.000,XX,Worldwide,Protests,3.53
+2022-01-23 00:00:00.000,XX,Worldwide,Pay Cuts,0.12
+2022-01-23 00:00:00.000,XX,Worldwide,Workplace Safety,0.15
+2022-01-23 00:00:00.000,XX,Worldwide,Resignations,2.55
+2022-01-23 00:00:00.000,XX,Worldwide,Facilities Open,0.24
+2022-01-23 00:00:00.000,XX,Worldwide,Unemployment,1.77
+2022-01-23 00:00:00.000,XX,Worldwide,Testing,9.02
+2022-01-23 00:00:00.000,XX,Worldwide,Lockdown,7.31
+2022-01-23 00:00:00.000,XX,Worldwide,Variant,22.52
+2022-01-23 00:00:00.000,XX,Worldwide,Vaccine Hesitancy,9.30
+2022-01-23 00:00:00.000,XX,Worldwide,First Wave,0.50
+2022-01-23 00:00:00.000,XX,Worldwide,Third Wave,1.08
+2022-01-23 00:00:00.000,XX,Worldwide,Fourth Wave,0.21
+2022-01-23 00:00:00.000,XX,Worldwide,Fifth Wave,0.26
+2022-01-23 00:00:00.000,XX,Worldwide,Olympics,3.88
+2022-01-23 00:00:00.000,XX,Worldwide,Tourism,3.38
+2022-01-23 00:00:00.000,XX,Worldwide,Side Effects,0.72
+2022-01-23 00:00:00.000,AE,UAE,Vaccine,0.16
+2022-01-23 00:00:00.000,AE,UAE,Fear,0.77
+2022-01-23 00:00:00.000,AE,UAE,Guns & Ammo,0.73
+2022-01-23 00:00:00.000,AE,UAE,Panic,0.73
+2022-01-23 00:00:00.000,AE,UAE,Charity,0.76
+2022-01-23 00:00:00.000,AE,UAE,Protests,0.72
+2022-01-23 00:00:00.000,AE,UAE,Variant,0.24
+2022-01-23 00:00:00.000,AE,UAE,Third Wave,0.10
+2022-01-23 00:00:00.000,AE,UAE,Tourism,0.15
+2022-01-23 00:00:00.000,AF,Afghanistan,Crime,1.15
+2022-01-23 00:00:00.000,AF,Afghanistan,Vaccine,0.83
+2022-01-23 00:00:00.000,AF,Afghanistan,Fear,1.58
+2022-01-23 00:00:00.000,AF,Afghanistan,End of the World,1.04
+2022-01-23 00:00:00.000,AF,Afghanistan,Fines,0.26
+2022-01-23 00:00:00.000,AF,Afghanistan,Panic,0.19
+2022-01-23 00:00:00.000,AF,Afghanistan,Climate Change,0.21
+2022-01-23 00:00:00.000,AF,Afghanistan,Poverty,0.12
+2022-01-23 00:00:00.000,AF,Afghanistan,War,0.39
+2022-01-23 00:00:00.000,AF,Afghanistan,Anger,1.16
+2022-01-23 00:00:00.000,AF,Afghanistan,Conspiracy Theories,1.00
+2022-01-23 00:00:00.000,AF,Afghanistan,Joy,1.00
+2022-01-23 00:00:00.000,AF,Afghanistan,Elections,0.64
+2022-01-23 00:00:00.000,AF,Afghanistan,Unemployment,0.44
+2022-01-23 00:00:00.000,AF,Afghanistan,Testing,0.45
+2022-01-23 00:00:00.000,AF,Afghanistan,Variant,0.32
+2022-01-23 00:00:00.000,AF,Afghanistan,Vaccine Hesitancy,0.38
+2022-01-23 00:00:00.000,AG,Antigua and Barbuda,State of Emergency,0.73
+2022-01-23 00:00:00.000,AG,Antigua and Barbuda,Vaccine,1.00
+2022-01-23 00:00:00.000,AG,Antigua and Barbuda,Lockdown,0.75
+2022-01-23 00:00:00.000,AG,Antigua and Barbuda,Variant,0.90
+2022-01-23 00:00:00.000,AG,Antigua and Barbuda,Olympics,0.73
+2022-01-23 00:00:00.000,AR,Argentina,Vaccine,0.20
+2022-01-23 00:00:00.000,AR,Argentina,Fear,0.16
+2022-01-23 00:00:00.000,AR,Argentina,Elections,0.11
+2022-01-23 00:00:00.000,AR,Argentina,Protests,0.12
+2022-01-23 00:00:00.000,AR,Argentina,Variant,0.20
+2022-01-23 00:00:00.000,AT,Austria,Test Positive,0.39
+2022-01-23 00:00:00.000,AT,Austria,Vaccine,0.43
+2022-01-23 00:00:00.000,AT,Austria,Lawsuits,0.17
+2022-01-23 00:00:00.000,AT,Austria,Fines,0.12
+2022-01-23 00:00:00.000,AT,Austria,Testing,0.36
+2022-01-23 00:00:00.000,AT,Austria,Variant,0.32
+2022-01-23 00:00:00.000,AT,Austria,Vaccine Hesitancy,0.26
+2022-01-23 00:00:00.000,AT,Austria,Olympics,0.31
+2022-01-23 00:00:00.000,AU,Australia,Social Distancing,0.25
+2022-01-23 00:00:00.000,AU,Australia,Remote Working,0.18
+2022-01-23 00:00:00.000,AU,Australia,State of Emergency,1.04
+2022-01-23 00:00:00.000,AU,Australia,Crime,0.17
+2022-01-23 00:00:00.000,AU,Australia,Face Mask,0.23
+2022-01-23 00:00:00.000,AU,Australia,School Reopening,0.15
+2022-01-23 00:00:00.000,AU,Australia,Test Positive,1.33
+2022-01-23 00:00:00.000,AU,Australia,Test Negative,0.31
+2022-01-23 00:00:00.000,AU,Australia,Confirmed Cases,0.57
+2022-01-23 00:00:00.000,AU,Australia,Death Toll Climbing,0.18
+2022-01-23 00:00:00.000,AU,Australia,Vaccine,6.08
+2022-01-23 00:00:00.000,AU,Australia,Food Shortage,0.35
+2022-01-23 00:00:00.000,AU,Australia,Fear,0.92
+2022-01-23 00:00:00.000,AU,Australia,End of the World,0.13
+2022-01-23 00:00:00.000,AU,Australia,Guns & Ammo,0.12
+2022-01-23 00:00:00.000,AU,Australia,Lawsuits,0.29
+2022-01-23 00:00:00.000,AU,Australia,Mutations,0.23
+2022-01-23 00:00:00.000,AU,Australia,Fines,0.36
+2022-01-23 00:00:00.000,AU,Australia,Stay at Home,0.13
+2022-01-23 00:00:00.000,AU,Australia,Panic,0.65
+2022-01-23 00:00:00.000,AU,Australia,Fake News,0.13
+2022-01-23 00:00:00.000,AU,Australia,Climate Change,0.12
+2022-01-23 00:00:00.000,AU,Australia,Poverty,0.11
+2022-01-23 00:00:00.000,AU,Australia,War,0.46
+2022-01-23 00:00:00.000,AU,Australia,Anger,0.19
+2022-01-23 00:00:00.000,AU,Australia,Joy,0.18
+2022-01-23 00:00:00.000,AU,Australia,Surveillance,0.53
+2022-01-23 00:00:00.000,AU,Australia,Mental Health,0.34
+2022-01-23 00:00:00.000,AU,Australia,Crude Oil,0.10
+2022-01-23 00:00:00.000,AU,Australia,Elections,0.17
+2022-01-23 00:00:00.000,AU,Australia,Protests,0.21
+2022-01-23 00:00:00.000,AU,Australia,Resignations,0.10
+2022-01-23 00:00:00.000,AU,Australia,Testing,0.82
+2022-01-23 00:00:00.000,AU,Australia,Lockdown,1.52
+2022-01-23 00:00:00.000,AU,Australia,Variant,2.52
+2022-01-23 00:00:00.000,AU,Australia,Vaccine Hesitancy,0.91
+2022-01-23 00:00:00.000,AU,Australia,Olympics,1.11
+2022-01-23 00:00:00.000,AU,Australia,Tourism,0.21
+2022-01-23 00:00:00.000,BA,Bosnia,Vaccine,1.89
+2022-01-23 00:00:00.000,BD,Bangladesh,Vaccine,0.13
+2022-01-23 00:00:00.000,BE,Belgium,Vaccine,0.13
+2022-01-23 00:00:00.000,BE,Belgium,Fear,0.15
+2022-01-23 00:00:00.000,BE,Belgium,Variant,0.11
+2022-01-23 00:00:00.000,BG,Bulgaria,Vaccine,0.10
+2022-01-23 00:00:00.000,BM,Bermuda,Vaccine,0.11
+2022-01-23 00:00:00.000,BM,Bermuda,Fear,0.12
+2022-01-23 00:00:00.000,BO,Bolivia,Vaccine,0.10
+2022-01-23 00:00:00.000,BO,Bolivia,Variant,0.10
+2022-01-23 00:00:00.000,BR,Brazil,Social Distancing,0.10
+2022-01-23 00:00:00.000,BR,Brazil,Test Positive,0.12
+2022-01-23 00:00:00.000,BR,Brazil,Confirmed Cases,0.37
+2022-01-23 00:00:00.000,BR,Brazil,Vaccine,1.08
+2022-01-23 00:00:00.000,BR,Brazil,Fear,0.91
+2022-01-23 00:00:00.000,BR,Brazil,Guns & Ammo,0.73
+2022-01-23 00:00:00.000,BR,Brazil,Panic,0.77
+2022-01-23 00:00:00.000,BR,Brazil,Charity,0.81
+2022-01-23 00:00:00.000,BR,Brazil,Elections,0.12
+2022-01-23 00:00:00.000,BR,Brazil,Protests,0.80
+2022-01-23 00:00:00.000,BR,Brazil,Lockdown,0.16
+2022-01-23 00:00:00.000,BR,Brazil,Variant,0.86
+2022-01-23 00:00:00.000,BR,Brazil,Vaccine Hesitancy,0.19
+2022-01-23 00:00:00.000,BR,Brazil,Olympics,0.14
+2022-01-23 00:00:00.000,BR,Brazil,Tourism,0.42
+2022-01-23 00:00:00.000,BY,Belarus,Vaccine,0.49
+2022-01-23 00:00:00.000,CA,Canada,Social Distancing,0.31
+2022-01-23 00:00:00.000,CA,Canada,Crime,0.25
+2022-01-23 00:00:00.000,CA,Canada,Face Mask,0.13
+2022-01-23 00:00:00.000,CA,Canada,School Reopening,0.10
+2022-01-23 00:00:00.000,CA,Canada,Test Positive,1.03
+2022-01-23 00:00:00.000,CA,Canada,Confirmed Cases,0.79
+2022-01-23 00:00:00.000,CA,Canada,Death Toll Climbing,0.28
+2022-01-23 00:00:00.000,CA,Canada,Vaccine,2.81
+2022-01-23 00:00:00.000,CA,Canada,Food Shortage,0.29
+2022-01-23 00:00:00.000,CA,Canada,Fear,1.13
+2022-01-23 00:00:00.000,CA,Canada,End of the World,0.42
+2022-01-23 00:00:00.000,CA,Canada,Clinical Trials,0.22
+2022-01-23 00:00:00.000,CA,Canada,Hospital Beds,0.16
+2022-01-23 00:00:00.000,CA,Canada,Guns & Ammo,0.11
+2022-01-23 00:00:00.000,CA,Canada,Lawsuits,0.46
+2022-01-23 00:00:00.000,CA,Canada,Mutations,0.40
+2022-01-23 00:00:00.000,CA,Canada,Fines,0.55
+2022-01-23 00:00:00.000,CA,Canada,Stay at Home,0.14
+2022-01-23 00:00:00.000,CA,Canada,Panic,0.54
+2022-01-23 00:00:00.000,CA,Canada,Fake News,0.10
+2022-01-23 00:00:00.000,CA,Canada,Asymptomatic,0.15
+2022-01-23 00:00:00.000,CA,Canada,Poverty,0.12
+2022-01-23 00:00:00.000,CA,Canada,War,0.73
+2022-01-23 00:00:00.000,CA,Canada,Anger,0.23
+2022-01-23 00:00:00.000,CA,Canada,Conspiracy Theories,0.17
+2022-01-23 00:00:00.000,CA,Canada,Joy,0.25
+2022-01-23 00:00:00.000,CA,Canada,Charity,0.52
+2022-01-23 00:00:00.000,CA,Canada,Surveillance,0.26
+2022-01-23 00:00:00.000,CA,Canada,Inflation,0.12
+2022-01-23 00:00:00.000,CA,Canada,Mental Health,0.57
+2022-01-23 00:00:00.000,CA,Canada,Crude Oil,0.15
+2022-01-23 00:00:00.000,CA,Canada,Elections,0.40
+2022-01-23 00:00:00.000,CA,Canada,Protests,0.30
+2022-01-23 00:00:00.000,CA,Canada,Resignations,0.20
+2022-01-23 00:00:00.000,CA,Canada,Testing,0.79
+2022-01-23 00:00:00.000,CA,Canada,Lockdown,0.48
+2022-01-23 00:00:00.000,CA,Canada,Variant,2.40
+2022-01-23 00:00:00.000,CA,Canada,Vaccine Hesitancy,0.86
+2022-01-23 00:00:00.000,CA,Canada,Olympics,1.02
+2022-01-23 00:00:00.000,CA,Canada,Tourism,0.29
+2022-01-23 00:00:00.000,CH,Switzerland,Test Positive,0.34
+2022-01-23 00:00:00.000,CH,Switzerland,Racism,0.19
+2022-01-23 00:00:00.000,CH,Switzerland,Confirmed Cases,0.10
+2022-01-23 00:00:00.000,CH,Switzerland,Vaccine,1.14
+2022-01-23 00:00:00.000,CH,Switzerland,Fear,0.72
+2022-01-23 00:00:00.000,CH,Switzerland,Stock Losses,0.10
+2022-01-23 00:00:00.000,CH,Switzerland,Lawsuits,0.26
+2022-01-23 00:00:00.000,CH,Switzerland,Mutations,0.17
+2022-01-23 00:00:00.000,CH,Switzerland,Fines,0.33
+2022-01-23 00:00:00.000,CH,Switzerland,Second Wave,0.12
+2022-01-23 00:00:00.000,CH,Switzerland,Panic,0.40
+2022-01-23 00:00:00.000,CH,Switzerland,Climate Change,0.10
+2022-01-23 00:00:00.000,CH,Switzerland,War,0.31
+2022-01-23 00:00:00.000,CH,Switzerland,Anger,0.15
+2022-01-23 00:00:00.000,CH,Switzerland,Cold War,0.17
+2022-01-23 00:00:00.000,CH,Switzerland,Surveillance,0.13
+2022-01-23 00:00:00.000,CH,Switzerland,Mental Health,0.17
+2022-01-23 00:00:00.000,CH,Switzerland,Elections,0.35
+2022-01-23 00:00:00.000,CH,Switzerland,Unemployment,0.37
+2022-01-23 00:00:00.000,CH,Switzerland,Testing,0.66
+2022-01-23 00:00:00.000,CH,Switzerland,Lockdown,0.24
+2022-01-23 00:00:00.000,CH,Switzerland,Variant,0.62
+2022-01-23 00:00:00.000,CH,Switzerland,Vaccine Hesitancy,0.59
+2022-01-23 00:00:00.000,CH,Switzerland,Olympics,0.65
+2022-01-23 00:00:00.000,CL,Chile,Elections,0.10
+2022-01-23 00:00:00.000,CL,Chile,Variant,0.11
+2022-01-23 00:00:00.000,CM,Cameroon,Test Positive,0.53
+2022-01-23 00:00:00.000,CN,China,Social Distancing,0.32
+2022-01-23 00:00:00.000,CN,China,Remote Working,0.15
+2022-01-23 00:00:00.000,CN,China,State of Emergency,0.89
+2022-01-23 00:00:00.000,CN,China,Crime,0.23
+2022-01-23 00:00:00.000,CN,China,Face Mask,0.51
+2022-01-23 00:00:00.000,CN,China,Test Positive,1.71
+2022-01-23 00:00:00.000,CN,China,Test Negative,0.33
+2022-01-23 00:00:00.000,CN,China,Racism,0.30
+2022-01-23 00:00:00.000,CN,China,Confirmed Cases,2.02
+2022-01-23 00:00:00.000,CN,China,Death Toll Climbing,0.36
+2022-01-23 00:00:00.000,CN,China,Vaccine,3.42
+2022-01-23 00:00:00.000,CN,China,Food Shortage,1.60
+2022-01-23 00:00:00.000,CN,China,Fear,2.04
+2022-01-23 00:00:00.000,CN,China,Supply Chain Disruptions,0.14
+2022-01-23 00:00:00.000,CN,China,Stock Losses,0.17
+2022-01-23 00:00:00.000,CN,China,End of the World,0.20
+2022-01-23 00:00:00.000,CN,China,Cyber Attacks,0.15
+2022-01-23 00:00:00.000,CN,China,Guns & Ammo,0.93
+2022-01-23 00:00:00.000,CN,China,Lawsuits,0.39
+2022-01-23 00:00:00.000,CN,China,Boycott,0.10
+2022-01-23 00:00:00.000,CN,China,Mutations,0.35
+2022-01-23 00:00:00.000,CN,China,Fines,0.86
+2022-01-23 00:00:00.000,CN,China,Stay at Home,0.12
+2022-01-23 00:00:00.000,CN,China,Panic,2.39
+2022-01-23 00:00:00.000,CN,China,Fake News,0.27
+2022-01-23 00:00:00.000,CN,China,Asymptomatic,0.48
+2022-01-23 00:00:00.000,CN,China,Climate Change,0.27
+2022-01-23 00:00:00.000,CN,China,Poverty,0.18
+2022-01-23 00:00:00.000,CN,China,War,0.87
+2022-01-23 00:00:00.000,CN,China,Anger,0.41
+2022-01-23 00:00:00.000,CN,China,Cold War,0.28
+2022-01-23 00:00:00.000,CN,China,Joy,0.24
+2022-01-23 00:00:00.000,CN,China,Charity,0.92
+2022-01-23 00:00:00.000,CN,China,Surveillance,0.38
+2022-01-23 00:00:00.000,CN,China,Inflation,0.12
+2022-01-23 00:00:00.000,CN,China,Mental Health,0.36
+2022-01-23 00:00:00.000,CN,China,Crude Oil,0.28
+2022-01-23 00:00:00.000,CN,China,Elections,0.66
+2022-01-23 00:00:00.000,CN,China,Protests,0.97
+2022-01-23 00:00:00.000,CN,China,Resignations,0.12
+2022-01-23 00:00:00.000,CN,China,Unemployment,0.25
+2022-01-23 00:00:00.000,CN,China,Testing,0.72
+2022-01-23 00:00:00.000,CN,China,Lockdown,3.00
+2022-01-23 00:00:00.000,CN,China,Variant,4.04
+2022-01-23 00:00:00.000,CN,China,Vaccine Hesitancy,0.71
+2022-01-23 00:00:00.000,CN,China,Third Wave,0.12
+2022-01-23 00:00:00.000,CN,China,Olympics,3.17
+2022-01-23 00:00:00.000,CN,China,Tourism,0.44
+2022-01-23 00:00:00.000,CO,Colombia,Vaccine,0.14
+2022-01-23 00:00:00.000,CO,Colombia,Fear,0.10
+2022-01-23 00:00:00.000,CO,Colombia,Variant,0.12
+2022-01-23 00:00:00.000,CR,Costa Rica,Vaccine,0.12
+2022-01-23 00:00:00.000,CR,Costa Rica,Variant,0.12
+2022-01-23 00:00:00.000,CU,Cuba,Crime,0.11
+2022-01-23 00:00:00.000,CU,Cuba,Vaccine,0.14
+2022-01-23 00:00:00.000,CZ,Czechia,Vaccine,0.24
+2022-01-23 00:00:00.000,CZ,Czechia,Lawsuits,0.17
+2022-01-23 00:00:00.000,CZ,Czechia,Variant,0.18
+2022-01-23 00:00:00.000,CZ,Czechia,Vaccine Hesitancy,0.20
+2022-01-23 00:00:00.000,CZ,Czechia,Olympics,0.18
+2022-01-23 00:00:00.000,DE,Germany,Social Distancing,0.16
+2022-01-23 00:00:00.000,DE,Germany,Remote Working,0.14
+2022-01-23 00:00:00.000,DE,Germany,Crime,0.22
+2022-01-23 00:00:00.000,DE,Germany,Face Mask,0.25
+2022-01-23 00:00:00.000,DE,Germany,Test Positive,0.82
+2022-01-23 00:00:00.000,DE,Germany,Racism,0.11
+2022-01-23 00:00:00.000,DE,Germany,Confirmed Cases,0.27
+2022-01-23 00:00:00.000,DE,Germany,Vaccine,2.42
+2022-01-23 00:00:00.000,DE,Germany,Fear,1.90
+2022-01-23 00:00:00.000,DE,Germany,End of the World,0.42
+2022-01-23 00:00:00.000,DE,Germany,Guns & Ammo,0.85
+2022-01-23 00:00:00.000,DE,Germany,Mutations,0.50
+2022-01-23 00:00:00.000,DE,Germany,Fines,0.41
+2022-01-23 00:00:00.000,DE,Germany,Stay at Home,0.10
+2022-01-23 00:00:00.000,DE,Germany,Panic,1.45
+2022-01-23 00:00:00.000,DE,Germany,Fake News,0.36
+2022-01-23 00:00:00.000,DE,Germany,Poverty,0.10
+2022-01-23 00:00:00.000,DE,Germany,War,1.02
+2022-01-23 00:00:00.000,DE,Germany,Anger,0.21
+2022-01-23 00:00:00.000,DE,Germany,Cold War,0.10
+2022-01-23 00:00:00.000,DE,Germany,Joy,0.10
+2022-01-23 00:00:00.000,DE,Germany,Charity,1.23
+2022-01-23 00:00:00.000,DE,Germany,Surveillance,0.18
+2022-01-23 00:00:00.000,DE,Germany,Mental Health,0.36
+2022-01-23 00:00:00.000,DE,Germany,Crude Oil,0.11
+2022-01-23 00:00:00.000,DE,Germany,Elections,0.27
+2022-01-23 00:00:00.000,DE,Germany,Protests,1.00
+2022-01-23 00:00:00.000,DE,Germany,Resignations,0.36
+2022-01-23 00:00:00.000,DE,Germany,Unemployment,0.10
+2022-01-23 00:00:00.000,DE,Germany,Testing,0.70
+2022-01-23 00:00:00.000,DE,Germany,Lockdown,0.29
+2022-01-23 00:00:00.000,DE,Germany,Variant,2.01
+2022-01-23 00:00:00.000,DE,Germany,Vaccine Hesitancy,0.79
+2022-01-23 00:00:00.000,DE,Germany,Olympics,0.26
+2022-01-23 00:00:00.000,DE,Germany,Tourism,0.21
+2022-01-23 00:00:00.000,DE,Germany,Side Effects,0.13
+2022-01-23 00:00:00.000,DK,Denmark,Confirmed Cases,0.11
+2022-01-23 00:00:00.000,DK,Denmark,Vaccine,0.65
+2022-01-23 00:00:00.000,DK,Denmark,Fear,0.78
+2022-01-23 00:00:00.000,DK,Denmark,End of the World,0.33
+2022-01-23 00:00:00.000,DK,Denmark,Mutations,0.42
+2022-01-23 00:00:00.000,DK,Denmark,Second Wave,0.13
+2022-01-23 00:00:00.000,DK,Denmark,Panic,0.17
+2022-01-23 00:00:00.000,DK,Denmark,Spanish Flu,0.20
+2022-01-23 00:00:00.000,DK,Denmark,War,0.37
+2022-01-23 00:00:00.000,DK,Denmark,Charity,0.33
+2022-01-23 00:00:00.000,DK,Denmark,Surveillance,0.27
+2022-01-23 00:00:00.000,DK,Denmark,Protests,0.10
+2022-01-23 00:00:00.000,DK,Denmark,Testing,0.11
+2022-01-23 00:00:00.000,DK,Denmark,Variant,0.69
+2022-01-23 00:00:00.000,EE,Estonia,Fear,0.38
+2022-01-23 00:00:00.000,EE,Estonia,Panic,0.24
+2022-01-23 00:00:00.000,EE,Estonia,Fake News,0.25
+2022-01-23 00:00:00.000,EE,Estonia,War,0.35
+2022-01-23 00:00:00.000,EE,Estonia,Resignations,0.25
+2022-01-23 00:00:00.000,EE,Estonia,Olympics,0.27
+2022-01-23 00:00:00.000,EG,Egypt,Test Positive,0.13
+2022-01-23 00:00:00.000,EG,Egypt,Vaccine,0.17
+2022-01-23 00:00:00.000,ES,Spain,Crime,0.10
+2022-01-23 00:00:00.000,ES,Spain,Test Positive,0.19
+2022-01-23 00:00:00.000,ES,Spain,Confirmed Cases,0.12
+2022-01-23 00:00:00.000,ES,Spain,Vaccine,1.78
+2022-01-23 00:00:00.000,ES,Spain,Fear,0.43
+2022-01-23 00:00:00.000,ES,Spain,Fines,0.14
+2022-01-23 00:00:00.000,ES,Spain,Panic,0.15
+2022-01-23 00:00:00.000,ES,Spain,Spanish Flu,0.27
+2022-01-23 00:00:00.000,ES,Spain,War,0.12
+2022-01-23 00:00:00.000,ES,Spain,Joy,0.10
+2022-01-23 00:00:00.000,ES,Spain,Mental Health,0.13
+2022-01-23 00:00:00.000,ES,Spain,Testing,0.17
+2022-01-23 00:00:00.000,ES,Spain,Variant,0.60
+2022-01-23 00:00:00.000,ES,Spain,Vaccine Hesitancy,0.30
+2022-01-23 00:00:00.000,ES,Spain,Tourism,0.12
+2022-01-23 00:00:00.000,ET,Ethiopia,Vaccine,0.13
+2022-01-23 00:00:00.000,FI,Finland,Vaccine,0.98
+2022-01-23 00:00:00.000,FI,Finland,Fear,0.34
+2022-01-23 00:00:00.000,FI,Finland,Panic,0.27
+2022-01-23 00:00:00.000,FI,Finland,Fake News,0.25
+2022-01-23 00:00:00.000,FI,Finland,War,0.35
+2022-01-23 00:00:00.000,FI,Finland,Protests,0.90
+2022-01-23 00:00:00.000,FI,Finland,Resignations,0.24
+2022-01-23 00:00:00.000,FI,Finland,Lockdown,0.18
+2022-01-23 00:00:00.000,FI,Finland,Variant,0.86
+2022-01-23 00:00:00.000,FJ,Fiji,Test Positive,0.18
+2022-01-23 00:00:00.000,FJ,Fiji,Vaccine,0.18
+2022-01-23 00:00:00.000,FJ,Fiji,Stay at Home,0.11
+2022-01-23 00:00:00.000,FJ,Fiji,Lockdown,0.18
+2022-01-23 00:00:00.000,FR,France,Remote Working,0.15
+2022-01-23 00:00:00.000,FR,France,Crime,0.14
+2022-01-23 00:00:00.000,FR,France,Face Mask,0.21
+2022-01-23 00:00:00.000,FR,France,Test Positive,0.79
+2022-01-23 00:00:00.000,FR,France,Racism,0.29
+2022-01-23 00:00:00.000,FR,France,Confirmed Cases,0.22
+2022-01-23 00:00:00.000,FR,France,Vaccine,5.21
+2022-01-23 00:00:00.000,FR,France,Fear,1.22
+2022-01-23 00:00:00.000,FR,France,Stock Losses,0.13
+2022-01-23 00:00:00.000,FR,France,End of the World,0.38
+2022-01-23 00:00:00.000,FR,France,Guns & Ammo,0.18
+2022-01-23 00:00:00.000,FR,France,Lawsuits,0.42
+2022-01-23 00:00:00.000,FR,France,Mutations,0.21
+2022-01-23 00:00:00.000,FR,France,Fines,0.57
+2022-01-23 00:00:00.000,FR,France,Second Wave,0.15
+2022-01-23 00:00:00.000,FR,France,Panic,0.64
+2022-01-23 00:00:00.000,FR,France,Fake News,0.14
+2022-01-23 00:00:00.000,FR,France,Climate Change,0.21
+2022-01-23 00:00:00.000,FR,France,Spanish Flu,0.20
+2022-01-23 00:00:00.000,FR,France,Poverty,0.11
+2022-01-23 00:00:00.000,FR,France,War,0.86
+2022-01-23 00:00:00.000,FR,France,Anger,0.37
+2022-01-23 00:00:00.000,FR,France,Cold War,0.17
+2022-01-23 00:00:00.000,FR,France,Joy,0.30
+2022-01-23 00:00:00.000,FR,France,Charity,0.40
+2022-01-23 00:00:00.000,FR,France,Surveillance,0.17
+2022-01-23 00:00:00.000,FR,France,Mental Health,0.28
+2022-01-23 00:00:00.000,FR,France,Crude Oil,0.11
+2022-01-23 00:00:00.000,FR,France,Elections,0.28
+2022-01-23 00:00:00.000,FR,France,Protests,1.19
+2022-01-23 00:00:00.000,FR,France,Resignations,0.12
+2022-01-23 00:00:00.000,FR,France,Unemployment,0.16
+2022-01-23 00:00:00.000,FR,France,Testing,0.65
+2022-01-23 00:00:00.000,FR,France,Lockdown,0.34
+2022-01-23 00:00:00.000,FR,France,Variant,2.19
+2022-01-23 00:00:00.000,FR,France,Vaccine Hesitancy,0.57
+2022-01-23 00:00:00.000,FR,France,Olympics,0.34
+2022-01-23 00:00:00.000,FR,France,Tourism,0.18
+2022-01-23 00:00:00.000,GB,UK,Social Distancing,0.52
+2022-01-23 00:00:00.000,GB,UK,Remote Working,0.36
+2022-01-23 00:00:00.000,GB,UK,State of Emergency,0.88
+2022-01-23 00:00:00.000,GB,UK,Crime,1.38
+2022-01-23 00:00:00.000,GB,UK,Face Mask,0.47
+2022-01-23 00:00:00.000,GB,UK,Recession,0.87
+2022-01-23 00:00:00.000,GB,UK,Self-Quarantine,0.19
+2022-01-23 00:00:00.000,GB,UK,School Closures,0.13
+2022-01-23 00:00:00.000,GB,UK,Test Positive,1.65
+2022-01-23 00:00:00.000,GB,UK,Test Negative,0.17
+2022-01-23 00:00:00.000,GB,UK,Racism,0.39
+2022-01-23 00:00:00.000,GB,UK,Confirmed Cases,0.74
+2022-01-23 00:00:00.000,GB,UK,Death Toll Climbing,0.26
+2022-01-23 00:00:00.000,GB,UK,Vaccine,5.74
+2022-01-23 00:00:00.000,GB,UK,Food Shortage,0.31
+2022-01-23 00:00:00.000,GB,UK,Fear,4.75
+2022-01-23 00:00:00.000,GB,UK,Stock Losses,0.14
+2022-01-23 00:00:00.000,GB,UK,End of the World,1.50
+2022-01-23 00:00:00.000,GB,UK,Clinical Trials,0.18
+2022-01-23 00:00:00.000,GB,UK,Guns & Ammo,0.95
+2022-01-23 00:00:00.000,GB,UK,Lawsuits,0.60
+2022-01-23 00:00:00.000,GB,UK,Boycott,0.10
+2022-01-23 00:00:00.000,GB,UK,Mutations,0.75
+2022-01-23 00:00:00.000,GB,UK,Fines,0.81
+2022-01-23 00:00:00.000,GB,UK,Second Wave,0.23
+2022-01-23 00:00:00.000,GB,UK,Stay at Home,0.30
+2022-01-23 00:00:00.000,GB,UK,Panic,2.24
+2022-01-23 00:00:00.000,GB,UK,Fake News,0.53
+2022-01-23 00:00:00.000,GB,UK,Asymptomatic,0.14
+2022-01-23 00:00:00.000,GB,UK,Climate Change,0.25
+2022-01-23 00:00:00.000,GB,UK,Spanish Flu,0.21
+2022-01-23 00:00:00.000,GB,UK,Poverty,0.26
+2022-01-23 00:00:00.000,GB,UK,War,2.03
+2022-01-23 00:00:00.000,GB,UK,Anger,2.35
+2022-01-23 00:00:00.000,GB,UK,Conspiracy Theories,1.08
+2022-01-23 00:00:00.000,GB,UK,Cold War,0.19
+2022-01-23 00:00:00.000,GB,UK,Joy,1.27
+2022-01-23 00:00:00.000,GB,UK,Charity,1.33
+2022-01-23 00:00:00.000,GB,UK,Surveillance,0.57
+2022-01-23 00:00:00.000,GB,UK,Mental Health,0.62
+2022-01-23 00:00:00.000,GB,UK,Crude Oil,0.23
+2022-01-23 00:00:00.000,GB,UK,Immigration,0.13
+2022-01-23 00:00:00.000,GB,UK,Elections,0.46
+2022-01-23 00:00:00.000,GB,UK,Protests,1.86
+2022-01-23 00:00:00.000,GB,UK,Resignations,1.71
+2022-01-23 00:00:00.000,GB,UK,Unemployment,0.20
+2022-01-23 00:00:00.000,GB,UK,Testing,1.26
+2022-01-23 00:00:00.000,GB,UK,Lockdown,2.95
+2022-01-23 00:00:00.000,GB,UK,Variant,4.85
+2022-01-23 00:00:00.000,GB,UK,Vaccine Hesitancy,1.52
+2022-01-23 00:00:00.000,GB,UK,Third Wave,0.19
+2022-01-23 00:00:00.000,GB,UK,Olympics,1.46
+2022-01-23 00:00:00.000,GB,UK,Tourism,0.50
+2022-01-23 00:00:00.000,GB,UK,Side Effects,0.18
+2022-01-23 00:00:00.000,GE,Georgia,Crime,0.10
+2022-01-23 00:00:00.000,GE,Georgia,Vaccine,0.38
+2022-01-23 00:00:00.000,GE,Georgia,Fear,0.17
+2022-01-23 00:00:00.000,GE,Georgia,Lawsuits,0.12
+2022-01-23 00:00:00.000,GE,Georgia,Elections,0.17
+2022-01-23 00:00:00.000,GE,Georgia,Variant,0.13
+2022-01-23 00:00:00.000,GH,Ghana,Test Positive,0.47
+2022-01-23 00:00:00.000,GH,Ghana,Vaccine,0.10
+2022-01-23 00:00:00.000,GR,Greece,Vaccine,0.62
+2022-01-23 00:00:00.000,GR,Greece,Mutations,0.17
+2022-01-23 00:00:00.000,GR,Greece,Protests,0.20
+2022-01-23 00:00:00.000,GR,Greece,Variant,0.50
+2022-01-23 00:00:00.000,GR,Greece,Vaccine Hesitancy,0.17
+2022-01-23 00:00:00.000,HK,Hong Kong,Social Distancing,0.11
+2022-01-23 00:00:00.000,HK,Hong Kong,State of Emergency,0.81
+2022-01-23 00:00:00.000,HK,Hong Kong,Test Positive,0.35
+2022-01-23 00:00:00.000,HK,Hong Kong,Confirmed Cases,0.19
+2022-01-23 00:00:00.000,HK,Hong Kong,Vaccine,1.14
+2022-01-23 00:00:00.000,HK,Hong Kong,Fear,0.37
+2022-01-23 00:00:00.000,HK,Hong Kong,Mutations,0.11
+2022-01-23 00:00:00.000,HK,Hong Kong,Fines,0.17
+2022-01-23 00:00:00.000,HK,Hong Kong,War,0.10
+2022-01-23 00:00:00.000,HK,Hong Kong,Elections,0.11
+2022-01-23 00:00:00.000,HK,Hong Kong,Protests,0.10
+2022-01-23 00:00:00.000,HK,Hong Kong,Testing,0.14
+2022-01-23 00:00:00.000,HK,Hong Kong,Lockdown,1.08
+2022-01-23 00:00:00.000,HK,Hong Kong,Variant,1.35
+2022-01-23 00:00:00.000,HK,Hong Kong,Olympics,0.97
+2022-01-23 00:00:00.000,HK,Hong Kong,Tourism,0.12
+2022-01-23 00:00:00.000,ID,Indonesia,Vaccine,0.25
+2022-01-23 00:00:00.000,ID,Indonesia,Variant,0.17
+2022-01-23 00:00:00.000,ID,Indonesia,Tourism,0.11
+2022-01-23 00:00:00.000,IE,Ireland,Social Distancing,0.17
+2022-01-23 00:00:00.000,IE,Ireland,Remote Working,0.10
+2022-01-23 00:00:00.000,IE,Ireland,Face Mask,0.13
+2022-01-23 00:00:00.000,IE,Ireland,Test Positive,0.22
+2022-01-23 00:00:00.000,IE,Ireland,Confirmed Cases,0.19
+2022-01-23 00:00:00.000,IE,Ireland,Vaccine,0.49
+2022-01-23 00:00:00.000,IE,Ireland,Fear,0.17
+2022-01-23 00:00:00.000,IE,Ireland,Fines,0.13
+2022-01-23 00:00:00.000,IE,Ireland,Panic,0.12
+2022-01-23 00:00:00.000,IE,Ireland,Testing,0.11
+2022-01-23 00:00:00.000,IE,Ireland,Lockdown,0.28
+2022-01-23 00:00:00.000,IE,Ireland,Variant,0.31
+2022-01-23 00:00:00.000,IL,Israel,Crime,1.17
+2022-01-23 00:00:00.000,IL,Israel,Test Positive,0.10
+2022-01-23 00:00:00.000,IL,Israel,Vaccine,0.80
+2022-01-23 00:00:00.000,IL,Israel,Fear,1.31
+2022-01-23 00:00:00.000,IL,Israel,End of the World,1.09
+2022-01-23 00:00:00.000,IL,Israel,Lawsuits,0.12
+2022-01-23 00:00:00.000,IL,Israel,Mutations,0.27
+2022-01-23 00:00:00.000,IL,Israel,Fines,0.15
+2022-01-23 00:00:00.000,IL,Israel,Panic,0.21
+2022-01-23 00:00:00.000,IL,Israel,War,0.14
+2022-01-23 00:00:00.000,IL,Israel,Anger,1.17
+2022-01-23 00:00:00.000,IL,Israel,Conspiracy Theories,1.04
+2022-01-23 00:00:00.000,IL,Israel,Joy,1.03
+2022-01-23 00:00:00.000,IL,Israel,Mental Health,0.10
+2022-01-23 00:00:00.000,IL,Israel,Testing,0.15
+2022-01-23 00:00:00.000,IL,Israel,Variant,0.52
+2022-01-23 00:00:00.000,IL,Israel,Vaccine Hesitancy,0.21
+2022-01-23 00:00:00.000,IN,India,Social Distancing,0.23
+2022-01-23 00:00:00.000,IN,India,Remote Working,0.19
+2022-01-23 00:00:00.000,IN,India,State of Emergency,0.82
+2022-01-23 00:00:00.000,IN,India,Crime,0.14
+2022-01-23 00:00:00.000,IN,India,Face Mask,0.15
+2022-01-23 00:00:00.000,IN,India,Self-Quarantine,0.21
+2022-01-23 00:00:00.000,IN,India,School Reopening,0.11
+2022-01-23 00:00:00.000,IN,India,Test Positive,0.98
+2022-01-23 00:00:00.000,IN,India,Test Negative,0.18
+2022-01-23 00:00:00.000,IN,India,Patient Recovery,0.15
+2022-01-23 00:00:00.000,IN,India,Confirmed Cases,0.81
+2022-01-23 00:00:00.000,IN,India,Death Toll Climbing,0.17
+2022-01-23 00:00:00.000,IN,India,Vaccine,3.55
+2022-01-23 00:00:00.000,IN,India,Fear,1.02
+2022-01-23 00:00:00.000,IN,India,End of the World,0.11
+2022-01-23 00:00:00.000,IN,India,Pneumonia,0.14
+2022-01-23 00:00:00.000,IN,India,Hospital Beds,0.15
+2022-01-23 00:00:00.000,IN,India,Guns & Ammo,0.13
+2022-01-23 00:00:00.000,IN,India,Lawsuits,0.14
+2022-01-23 00:00:00.000,IN,India,Mutations,0.58
+2022-01-23 00:00:00.000,IN,India,Fines,0.41
+2022-01-23 00:00:00.000,IN,India,Second Wave,0.50
+2022-01-23 00:00:00.000,IN,India,Stay at Home,0.10
+2022-01-23 00:00:00.000,IN,India,Panic,0.75
+2022-01-23 00:00:00.000,IN,India,Fake News,0.32
+2022-01-23 00:00:00.000,IN,India,Asymptomatic,0.17
+2022-01-23 00:00:00.000,IN,India,Climate Change,0.15
+2022-01-23 00:00:00.000,IN,India,Poverty,0.19
+2022-01-23 00:00:00.000,IN,India,War,1.29
+2022-01-23 00:00:00.000,IN,India,Anger,0.80
+2022-01-23 00:00:00.000,IN,India,Joy,0.18
+2022-01-23 00:00:00.000,IN,India,Surveillance,0.41
+2022-01-23 00:00:00.000,IN,India,Mental Health,0.38
+2022-01-23 00:00:00.000,IN,India,Crude Oil,0.12
+2022-01-23 00:00:00.000,IN,India,Elections,1.08
+2022-01-23 00:00:00.000,IN,India,Protests,0.27
+2022-01-23 00:00:00.000,IN,India,Resignations,0.96
+2022-01-23 00:00:00.000,IN,India,Unemployment,0.15
+2022-01-23 00:00:00.000,IN,India,Testing,0.43
+2022-01-23 00:00:00.000,IN,India,Lockdown,2.33
+2022-01-23 00:00:00.000,IN,India,Variant,2.95
+2022-01-23 00:00:00.000,IN,India,Vaccine Hesitancy,0.50
+2022-01-23 00:00:00.000,IN,India,First Wave,0.18
+2022-01-23 00:00:00.000,IN,India,Third Wave,0.83
+2022-01-23 00:00:00.000,IN,India,Olympics,0.92
+2022-01-23 00:00:00.000,IN,India,Tourism,0.39
+2022-01-23 00:00:00.000,IQ,Iraq,Vaccine,0.16
+2022-01-23 00:00:00.000,IQ,Iraq,Fines,0.17
+2022-01-23 00:00:00.000,IQ,Iraq,Climate Change,0.10
+2022-01-23 00:00:00.000,IQ,Iraq,War,0.20
+2022-01-23 00:00:00.000,IQ,Iraq,Elections,0.13
+2022-01-23 00:00:00.000,IQ,Iraq,Variant,0.15
+2022-01-23 00:00:00.000,IR,Iran,Vaccine,0.20
+2022-01-23 00:00:00.000,IR,Iran,Fines,0.12
+2022-01-23 00:00:00.000,IR,Iran,War,0.14
+2022-01-23 00:00:00.000,IT,Italy,Test Positive,0.88
+2022-01-23 00:00:00.000,IT,Italy,Vaccine,0.58
+2022-01-23 00:00:00.000,IT,Italy,Fear,1.32
+2022-01-23 00:00:00.000,IT,Italy,End of the World,0.35
+2022-01-23 00:00:00.000,IT,Italy,Guns & Ammo,0.77
+2022-01-23 00:00:00.000,IT,Italy,Lawsuits,0.23
+2022-01-23 00:00:00.000,IT,Italy,Panic,0.88
+2022-01-23 00:00:00.000,IT,Italy,War,0.54
+2022-01-23 00:00:00.000,IT,Italy,Populism,0.17
+2022-01-23 00:00:00.000,IT,Italy,Anger,0.11
+2022-01-23 00:00:00.000,IT,Italy,Charity,1.08
+2022-01-23 00:00:00.000,IT,Italy,Elections,0.49
+2022-01-23 00:00:00.000,IT,Italy,Protests,0.96
+2022-01-23 00:00:00.000,IT,Italy,Testing,0.44
+2022-01-23 00:00:00.000,IT,Italy,Lockdown,0.12
+2022-01-23 00:00:00.000,IT,Italy,Variant,0.49
+2022-01-23 00:00:00.000,IT,Italy,Vaccine Hesitancy,0.37
+2022-01-23 00:00:00.000,IT,Italy,Olympics,0.21
+2022-01-23 00:00:00.000,IT,Italy,Tourism,0.10
+2022-01-23 00:00:00.000,JO,Jordan,Test Positive,0.19
+2022-01-23 00:00:00.000,JO,Jordan,Vaccine,0.34
+2022-01-23 00:00:00.000,JO,Jordan,Panic,0.22
+2022-01-23 00:00:00.000,JO,Jordan,Joy,0.22
+2022-01-23 00:00:00.000,JO,Jordan,Lockdown,0.10
+2022-01-23 00:00:00.000,JP,Japan,Social Distancing,0.16
+2022-01-23 00:00:00.000,JP,Japan,Face Mask,0.11
+2022-01-23 00:00:00.000,JP,Japan,Test Positive,0.24
+2022-01-23 00:00:00.000,JP,Japan,Confirmed Cases,1.16
+2022-01-23 00:00:00.000,JP,Japan,Vaccine,1.35
+2022-01-23 00:00:00.000,JP,Japan,Food Shortage,1.03
+2022-01-23 00:00:00.000,JP,Japan,Fear,0.77
+2022-01-23 00:00:00.000,JP,Japan,End of the World,0.45
+2022-01-23 00:00:00.000,JP,Japan,Hospital Beds,0.32
+2022-01-23 00:00:00.000,JP,Japan,Mutations,0.11
+2022-01-23 00:00:00.000,JP,Japan,Fines,0.27
+2022-01-23 00:00:00.000,JP,Japan,Panic,1.17
+2022-01-23 00:00:00.000,JP,Japan,Climate Change,0.11
+2022-01-23 00:00:00.000,JP,Japan,Poverty,0.10
+2022-01-23 00:00:00.000,JP,Japan,War,0.68
+2022-01-23 00:00:00.000,JP,Japan,Anger,0.12
+2022-01-23 00:00:00.000,JP,Japan,Boredom,0.13
+2022-01-23 00:00:00.000,JP,Japan,Joy,0.16
+2022-01-23 00:00:00.000,JP,Japan,Charity,0.46
+2022-01-23 00:00:00.000,JP,Japan,Mental Health,0.27
+2022-01-23 00:00:00.000,JP,Japan,Crude Oil,0.10
+2022-01-23 00:00:00.000,JP,Japan,Elections,0.20
+2022-01-23 00:00:00.000,JP,Japan,Protests,0.15
+2022-01-23 00:00:00.000,JP,Japan,Testing,0.17
+2022-01-23 00:00:00.000,JP,Japan,Lockdown,1.13
+2022-01-23 00:00:00.000,JP,Japan,Variant,1.09
+2022-01-23 00:00:00.000,JP,Japan,Vaccine Hesitancy,0.19
+2022-01-23 00:00:00.000,JP,Japan,Third Wave,0.10
+2022-01-23 00:00:00.000,JP,Japan,Olympics,0.69
+2022-01-23 00:00:00.000,JP,Japan,Tourism,0.17
+2022-01-23 00:00:00.000,KP,North Korea,Racism,0.13
+2022-01-23 00:00:00.000,KP,North Korea,Vaccine,0.13
+2022-01-23 00:00:00.000,KP,North Korea,Fines,0.30
+2022-01-23 00:00:00.000,KP,North Korea,Panic,0.17
+2022-01-23 00:00:00.000,KP,North Korea,War,0.27
+2022-01-23 00:00:00.000,KP,North Korea,Cold War,0.17
+2022-01-23 00:00:00.000,KR,S. Korea,Social Distancing,0.15
+2022-01-23 00:00:00.000,KR,S. Korea,Test Positive,0.11
+2022-01-23 00:00:00.000,KR,S. Korea,Vaccine,0.43
+2022-01-23 00:00:00.000,KR,S. Korea,Fear,0.25
+2022-01-23 00:00:00.000,KR,S. Korea,Fines,0.16
+2022-01-23 00:00:00.000,KR,S. Korea,Panic,0.10
+2022-01-23 00:00:00.000,KR,S. Korea,War,0.32
+2022-01-23 00:00:00.000,KR,S. Korea,Anger,0.15
+2022-01-23 00:00:00.000,KR,S. Korea,Joy,0.21
+2022-01-23 00:00:00.000,KR,S. Korea,Elections,0.15
+2022-01-23 00:00:00.000,KR,S. Korea,Protests,0.21
+2022-01-23 00:00:00.000,KR,S. Korea,Testing,0.23
+2022-01-23 00:00:00.000,KR,S. Korea,Lockdown,0.20
+2022-01-23 00:00:00.000,KR,S. Korea,Variant,0.31
+2022-01-23 00:00:00.000,KR,S. Korea,Olympics,0.53
+2022-01-23 00:00:00.000,KR,S. Korea,Tourism,0.12
+2022-01-23 00:00:00.000,KY,Cayman Islands,Confirmed Cases,0.17
+2022-01-23 00:00:00.000,KY,Cayman Islands,Death Toll Climbing,0.15
+2022-01-23 00:00:00.000,KY,Cayman Islands,Fear,0.13
+2022-01-23 00:00:00.000,KY,Cayman Islands,Asymptomatic,0.15
+2022-01-23 00:00:00.000,KY,Cayman Islands,Olympics,0.17
+2022-01-23 00:00:00.000,LK,Sri Lanka,Variant,0.11
+2022-01-23 00:00:00.000,LT,Lithuania,Fear,0.35
+2022-01-23 00:00:00.000,LT,Lithuania,Panic,0.25
+2022-01-23 00:00:00.000,LT,Lithuania,Fake News,0.25
+2022-01-23 00:00:00.000,LT,Lithuania,War,0.35
+2022-01-23 00:00:00.000,LT,Lithuania,Resignations,0.25
+2022-01-23 00:00:00.000,LV,Latvia,Fear,0.38
+2022-01-23 00:00:00.000,LV,Latvia,Panic,0.28
+2022-01-23 00:00:00.000,LV,Latvia,Fake News,0.25
+2022-01-23 00:00:00.000,LV,Latvia,War,0.38
+2022-01-23 00:00:00.000,LV,Latvia,Resignations,0.25
+2022-01-23 00:00:00.000,ME,Montenegro,Vaccine,0.10
+2022-01-23 00:00:00.000,MR,Mauritania,Test Positive,0.11
+2022-01-23 00:00:00.000,MX,Mexico,Test Positive,0.15
+2022-01-23 00:00:00.000,MX,Mexico,Vaccine,0.60
+2022-01-23 00:00:00.000,MX,Mexico,Fear,0.19
+2022-01-23 00:00:00.000,MX,Mexico,Fines,0.11
+2022-01-23 00:00:00.000,MX,Mexico,Panic,0.11
+2022-01-23 00:00:00.000,MX,Mexico,Joy,0.11
+2022-01-23 00:00:00.000,MX,Mexico,Mental Health,0.39
+2022-01-23 00:00:00.000,MX,Mexico,Immigration,0.15
+2022-01-23 00:00:00.000,MX,Mexico,Elections,0.12
+2022-01-23 00:00:00.000,MX,Mexico,Lockdown,0.14
+2022-01-23 00:00:00.000,MX,Mexico,Variant,0.29
+2022-01-23 00:00:00.000,MX,Mexico,Tourism,0.15
+2022-01-23 00:00:00.000,MY,Malaysia,Vaccine,0.22
+2022-01-23 00:00:00.000,MY,Malaysia,Variant,0.17
+2022-01-23 00:00:00.000,MY,Malaysia,Tourism,0.10
+2022-01-23 00:00:00.000,NG,Nigeria,Test Positive,0.13
+2022-01-23 00:00:00.000,NG,Nigeria,Vaccine,0.19
+2022-01-23 00:00:00.000,NG,Nigeria,Variant,0.11
+2022-01-23 00:00:00.000,NL,Netherlands,Crime,1.02
+2022-01-23 00:00:00.000,NL,Netherlands,Vaccine,1.34
+2022-01-23 00:00:00.000,NL,Netherlands,Fear,1.14
+2022-01-23 00:00:00.000,NL,Netherlands,End of the World,1.01
+2022-01-23 00:00:00.000,NL,Netherlands,Anger,1.04
+2022-01-23 00:00:00.000,NL,Netherlands,Conspiracy Theories,1.01
+2022-01-23 00:00:00.000,NL,Netherlands,Joy,1.00
+2022-01-23 00:00:00.000,NL,Netherlands,Variant,0.15
+2022-01-23 00:00:00.000,NO,Norway,Test Positive,0.38
+2022-01-23 00:00:00.000,NO,Norway,Vaccine,0.17
+2022-01-23 00:00:00.000,NO,Norway,Testing,0.37
+2022-01-23 00:00:00.000,NZ,New Zealand,Social Distancing,0.20
+2022-01-23 00:00:00.000,NZ,New Zealand,State of Emergency,0.17
+2022-01-23 00:00:00.000,NZ,New Zealand,Test Positive,0.55
+2022-01-23 00:00:00.000,NZ,New Zealand,Test Negative,0.25
+2022-01-23 00:00:00.000,NZ,New Zealand,Vaccine,0.50
+2022-01-23 00:00:00.000,NZ,New Zealand,Food Shortage,0.28
+2022-01-23 00:00:00.000,NZ,New Zealand,Fear,0.21
+2022-01-23 00:00:00.000,NZ,New Zealand,Lockdown,0.36
+2022-01-23 00:00:00.000,NZ,New Zealand,Variant,0.40
+2022-01-23 00:00:00.000,PA,Panama,Vaccine,0.12
+2022-01-23 00:00:00.000,PA,Panama,Variant,0.12
+2022-01-23 00:00:00.000,PE,Peru,Vaccine,0.16
+2022-01-23 00:00:00.000,PE,Peru,Fear,0.12
+2022-01-23 00:00:00.000,PE,Peru,Variant,0.11
+2022-01-23 00:00:00.000,PH,Philippines,Social Distancing,0.11
+2022-01-23 00:00:00.000,PH,Philippines,Test Positive,0.21
+2022-01-23 00:00:00.000,PH,Philippines,Confirmed Cases,0.17
+2022-01-23 00:00:00.000,PH,Philippines,Vaccine,0.56
+2022-01-23 00:00:00.000,PH,Philippines,Fear,0.23
+2022-01-23 00:00:00.000,PH,Philippines,Mutations,0.15
+2022-01-23 00:00:00.000,PH,Philippines,Elections,0.18
+2022-01-23 00:00:00.000,PH,Philippines,Lockdown,0.15
+2022-01-23 00:00:00.000,PH,Philippines,Variant,0.49
+2022-01-23 00:00:00.000,PH,Philippines,Vaccine Hesitancy,0.16
+2022-01-23 00:00:00.000,PH,Philippines,Tourism,0.13
+2022-01-23 00:00:00.000,PK,Pakistan,Crime,1.08
+2022-01-23 00:00:00.000,PK,Pakistan,Test Positive,0.21
+2022-01-23 00:00:00.000,PK,Pakistan,Vaccine,0.34
+2022-01-23 00:00:00.000,PK,Pakistan,Fear,1.27
+2022-01-23 00:00:00.000,PK,Pakistan,End of the World,1.03
+2022-01-23 00:00:00.000,PK,Pakistan,Panic,0.10
+2022-01-23 00:00:00.000,PK,Pakistan,War,0.75
+2022-01-23 00:00:00.000,PK,Pakistan,Anger,1.70
+2022-01-23 00:00:00.000,PK,Pakistan,Conspiracy Theories,1.00
+2022-01-23 00:00:00.000,PK,Pakistan,Joy,1.02
+2022-01-23 00:00:00.000,PK,Pakistan,Resignations,0.63
+2022-01-23 00:00:00.000,PK,Pakistan,Testing,0.12
+2022-01-23 00:00:00.000,PK,Pakistan,Lockdown,0.71
+2022-01-23 00:00:00.000,PK,Pakistan,Variant,0.25
+2022-01-23 00:00:00.000,PK,Pakistan,Fifth Wave,0.13
+2022-01-23 00:00:00.000,PK,Pakistan,Tourism,0.14
+2022-01-23 00:00:00.000,PL,Poland,Vaccine,0.27
+2022-01-23 00:00:00.000,PL,Poland,Variant,0.17
+2022-01-23 00:00:00.000,PR,Puerto Rico,Vaccine,0.11
+2022-01-23 00:00:00.000,PR,Puerto Rico,Variant,0.10
+2022-01-23 00:00:00.000,PT,Portugal,Racism,0.19
+2022-01-23 00:00:00.000,PT,Portugal,Vaccine,0.21
+2022-01-23 00:00:00.000,PT,Portugal,Fear,0.85
+2022-01-23 00:00:00.000,PT,Portugal,Guns & Ammo,0.81
+2022-01-23 00:00:00.000,PT,Portugal,Fines,0.17
+2022-01-23 00:00:00.000,PT,Portugal,Panic,1.02
+2022-01-23 00:00:00.000,PT,Portugal,Climate Change,0.12
+2022-01-23 00:00:00.000,PT,Portugal,War,0.23
+2022-01-23 00:00:00.000,PT,Portugal,Anger,0.10
+2022-01-23 00:00:00.000,PT,Portugal,Cold War,0.14
+2022-01-23 00:00:00.000,PT,Portugal,Charity,0.72
+2022-01-23 00:00:00.000,PT,Portugal,Protests,0.73
+2022-01-23 00:00:00.000,PT,Portugal,Variant,0.16
+2022-01-23 00:00:00.000,QA,Qatar,Vaccine,0.11
+2022-01-23 00:00:00.000,QA,Qatar,Variant,0.12
+2022-01-23 00:00:00.000,RO,Romania,Vaccine,0.12
+2022-01-23 00:00:00.000,RS,Serbia,Vaccine,3.16
+2022-01-23 00:00:00.000,RS,Serbia,Lawsuits,0.20
+2022-01-23 00:00:00.000,RS,Serbia,Variant,0.22
+2022-01-23 00:00:00.000,RS,Serbia,Vaccine Hesitancy,0.38
+2022-01-23 00:00:00.000,RS,Serbia,Olympics,0.20
+2022-01-23 00:00:00.000,RU,Russia,Crime,0.32
+2022-01-23 00:00:00.000,RU,Russia,Test Positive,0.17
+2022-01-23 00:00:00.000,RU,Russia,Racism,0.24
+2022-01-23 00:00:00.000,RU,Russia,Confirmed Cases,0.29
+2022-01-23 00:00:00.000,RU,Russia,Vaccine,2.48
+2022-01-23 00:00:00.000,RU,Russia,Fear,1.48
+2022-01-23 00:00:00.000,RU,Russia,End of the World,0.14
+2022-01-23 00:00:00.000,RU,Russia,Guns & Ammo,0.10
+2022-01-23 00:00:00.000,RU,Russia,Lawsuits,0.36
+2022-01-23 00:00:00.000,RU,Russia,Mutations,0.11
+2022-01-23 00:00:00.000,RU,Russia,Fines,0.96
+2022-01-23 00:00:00.000,RU,Russia,Panic,0.79
+2022-01-23 00:00:00.000,RU,Russia,Fake News,0.45
+2022-01-23 00:00:00.000,RU,Russia,Climate Change,0.31
+2022-01-23 00:00:00.000,RU,Russia,Spanish Flu,0.20
+2022-01-23 00:00:00.000,RU,Russia,Poverty,0.10
+2022-01-23 00:00:00.000,RU,Russia,War,1.19
+2022-01-23 00:00:00.000,RU,Russia,Anger,0.28
+2022-01-23 00:00:00.000,RU,Russia,Conspiracy Theories,0.15
+2022-01-23 00:00:00.000,RU,Russia,Cold War,0.26
+2022-01-23 00:00:00.000,RU,Russia,Joy,0.19
+2022-01-23 00:00:00.000,RU,Russia,Surveillance,0.12
+2022-01-23 00:00:00.000,RU,Russia,Mental Health,0.19
+2022-01-23 00:00:00.000,RU,Russia,Crude Oil,0.21
+2022-01-23 00:00:00.000,RU,Russia,Elections,1.03
+2022-01-23 00:00:00.000,RU,Russia,Protests,0.15
+2022-01-23 00:00:00.000,RU,Russia,Resignations,0.32
+2022-01-23 00:00:00.000,RU,Russia,Unemployment,0.49
+2022-01-23 00:00:00.000,RU,Russia,Testing,0.56
+2022-01-23 00:00:00.000,RU,Russia,Lockdown,0.23
+2022-01-23 00:00:00.000,RU,Russia,Variant,1.12
+2022-01-23 00:00:00.000,RU,Russia,Vaccine Hesitancy,0.71
+2022-01-23 00:00:00.000,RU,Russia,Olympics,0.44
+2022-01-23 00:00:00.000,RU,Russia,Tourism,0.12
+2022-01-23 00:00:00.000,RU,Russia,Side Effects,0.10
+2022-01-23 00:00:00.000,SA,Saudi Arabia,Vaccine,0.19
+2022-01-23 00:00:00.000,SA,Saudi Arabia,War,0.11
+2022-01-23 00:00:00.000,SE,Sweden,Face Mask,0.12
+2022-01-23 00:00:00.000,SE,Sweden,Test Positive,0.31
+2022-01-23 00:00:00.000,SE,Sweden,Vaccine,1.40
+2022-01-23 00:00:00.000,SE,Sweden,Fear,0.22
+2022-01-23 00:00:00.000,SE,Sweden,Lawsuits,0.17
+2022-01-23 00:00:00.000,SE,Sweden,Mutations,0.33
+2022-01-23 00:00:00.000,SE,Sweden,Second Wave,0.13
+2022-01-23 00:00:00.000,SE,Sweden,Panic,0.14
+2022-01-23 00:00:00.000,SE,Sweden,Surveillance,0.27
+2022-01-23 00:00:00.000,SE,Sweden,Protests,0.94
+2022-01-23 00:00:00.000,SE,Sweden,Testing,0.28
+2022-01-23 00:00:00.000,SE,Sweden,Variant,1.39
+2022-01-23 00:00:00.000,SE,Sweden,Vaccine Hesitancy,0.25
+2022-01-23 00:00:00.000,SE,Sweden,Olympics,0.21
+2022-01-23 00:00:00.000,SG,Singapore,State of Emergency,0.80
+2022-01-23 00:00:00.000,SG,Singapore,Confirmed Cases,0.14
+2022-01-23 00:00:00.000,SG,Singapore,Vaccine,1.13
+2022-01-23 00:00:00.000,SG,Singapore,Fear,0.11
+2022-01-23 00:00:00.000,SG,Singapore,Mutations,0.22
+2022-01-23 00:00:00.000,SG,Singapore,Surveillance,0.14
+2022-01-23 00:00:00.000,SG,Singapore,Testing,0.10
+2022-01-23 00:00:00.000,SG,Singapore,Lockdown,0.87
+2022-01-23 00:00:00.000,SG,Singapore,Variant,1.37
+2022-01-23 00:00:00.000,SG,Singapore,Vaccine Hesitancy,0.19
+2022-01-23 00:00:00.000,SG,Singapore,Olympics,0.82
+2022-01-23 00:00:00.000,SG,Singapore,Tourism,0.10
+2022-01-23 00:00:00.000,SI,Slovenia,Vaccine,0.11
+2022-01-23 00:00:00.000,SK,Slovakia,Vaccine,0.18
+2022-01-23 00:00:00.000,SK,Slovakia,Lawsuits,0.17
+2022-01-23 00:00:00.000,SK,Slovakia,Variant,0.18
+2022-01-23 00:00:00.000,SK,Slovakia,Vaccine Hesitancy,0.17
+2022-01-23 00:00:00.000,SK,Slovakia,Olympics,0.17
+2022-01-23 00:00:00.000,SY,Syria,Fear,0.11
+2022-01-23 00:00:00.000,TD,Chad,Variant,0.10
+2022-01-23 00:00:00.000,TH,Thailand,Vaccine,0.21
+2022-01-23 00:00:00.000,TH,Thailand,Fear,0.12
+2022-01-23 00:00:00.000,TH,Thailand,Variant,0.16
+2022-01-23 00:00:00.000,TH,Thailand,Tourism,0.18
+2022-01-23 00:00:00.000,TN,Tunisia,Test Positive,0.15
+2022-01-23 00:00:00.000,TR,Turkey,Vaccine,0.17
+2022-01-23 00:00:00.000,TR,Turkey,Variant,0.10
+2022-01-23 00:00:00.000,TW,Taiwan,State of Emergency,0.73
+2022-01-23 00:00:00.000,TW,Taiwan,Confirmed Cases,0.24
+2022-01-23 00:00:00.000,TW,Taiwan,Vaccine,1.12
+2022-01-23 00:00:00.000,TW,Taiwan,Fear,0.11
+2022-01-23 00:00:00.000,TW,Taiwan,Fines,0.21
+2022-01-23 00:00:00.000,TW,Taiwan,War,0.23
+2022-01-23 00:00:00.000,TW,Taiwan,Lockdown,0.83
+2022-01-23 00:00:00.000,TW,Taiwan,Variant,1.01
+2022-01-23 00:00:00.000,TW,Taiwan,Olympics,0.81
+2022-01-23 00:00:00.000,UA,Ukraine,Crime,0.15
+2022-01-23 00:00:00.000,UA,Ukraine,Racism,0.21
+2022-01-23 00:00:00.000,UA,Ukraine,Vaccine,0.99
+2022-01-23 00:00:00.000,UA,Ukraine,Fear,1.04
+2022-01-23 00:00:00.000,UA,Ukraine,End of the World,0.10
+2022-01-23 00:00:00.000,UA,Ukraine,Fines,0.62
+2022-01-23 00:00:00.000,UA,Ukraine,Panic,0.64
+2022-01-23 00:00:00.000,UA,Ukraine,Fake News,0.34
+2022-01-23 00:00:00.000,UA,Ukraine,Climate Change,0.21
+2022-01-23 00:00:00.000,UA,Ukraine,War,1.03
+2022-01-23 00:00:00.000,UA,Ukraine,Anger,0.20
+2022-01-23 00:00:00.000,UA,Ukraine,Cold War,0.24
+2022-01-23 00:00:00.000,UA,Ukraine,Crude Oil,0.13
+2022-01-23 00:00:00.000,UA,Ukraine,Elections,0.81
+2022-01-23 00:00:00.000,UA,Ukraine,Resignations,0.29
+2022-01-23 00:00:00.000,UA,Ukraine,Unemployment,0.39
+2022-01-23 00:00:00.000,UA,Ukraine,Testing,0.35
+2022-01-23 00:00:00.000,UA,Ukraine,Variant,0.30
+2022-01-23 00:00:00.000,UA,Ukraine,Vaccine Hesitancy,0.40
+2022-01-23 00:00:00.000,UG,Uganda,Test Positive,0.13
+2022-01-23 00:00:00.000,US,United States,Social Distancing,1.90
+2022-01-23 00:00:00.000,US,United States,Remote Working,0.50
+2022-01-23 00:00:00.000,US,United States,State of Emergency,1.16
+2022-01-23 00:00:00.000,US,United States,Crime,2.69
+2022-01-23 00:00:00.000,US,United States,Layoffs,0.13
+2022-01-23 00:00:00.000,US,United States,Face Mask,1.53
+2022-01-23 00:00:00.000,US,United States,Recession,1.39
+2022-01-23 00:00:00.000,US,United States,Bankruptcy,0.27
+2022-01-23 00:00:00.000,US,United States,Self-Quarantine,0.32
+2022-01-23 00:00:00.000,US,United States,School Closures,0.33
+2022-01-23 00:00:00.000,US,United States,Test Positive,7.66
+2022-01-23 00:00:00.000,US,United States,Test Negative,1.00
+2022-01-23 00:00:00.000,US,United States,Racism,1.21
+2022-01-23 00:00:00.000,US,United States,Patient Recovery,0.41
+2022-01-23 00:00:00.000,US,United States,Confirmed Cases,3.36
+2022-01-23 00:00:00.000,US,United States,Death Toll Climbing,0.73
+2022-01-23 00:00:00.000,US,United States,Vaccine,25.94
+2022-01-23 00:00:00.000,US,United States,Food Shortage,0.51
+2022-01-23 00:00:00.000,US,United States,Fear,10.43
+2022-01-23 00:00:00.000,US,United States,Bailout,0.12
+2022-01-23 00:00:00.000,US,United States,Supply Chain Disruptions,0.34
+2022-01-23 00:00:00.000,US,United States,Stock Losses,0.66
+2022-01-23 00:00:00.000,US,United States,Stock Gains,0.21
+2022-01-23 00:00:00.000,US,United States,Revenue Down,0.21
+2022-01-23 00:00:00.000,US,United States,End of the World,1.81
+2022-01-23 00:00:00.000,US,United States,Pneumonia,0.24
+2022-01-23 00:00:00.000,US,United States,Clinical Trials,0.87
+2022-01-23 00:00:00.000,US,United States,Online Shopping,0.19
+2022-01-23 00:00:00.000,US,United States,Hospital Beds,0.56
+2022-01-23 00:00:00.000,US,United States,Cyber Attacks,0.22
+2022-01-23 00:00:00.000,US,United States,Guns & Ammo,2.04
+2022-01-23 00:00:00.000,US,United States,Lawsuits,2.95
+2022-01-23 00:00:00.000,US,United States,Boycott,0.25
+2022-01-23 00:00:00.000,US,United States,Testing Shortage,0.15
+2022-01-23 00:00:00.000,US,United States,Testing Availability,0.60
+2022-01-23 00:00:00.000,US,United States,Mutations,1.69
+2022-01-23 00:00:00.000,US,United States,Fines,3.03
+2022-01-23 00:00:00.000,US,United States,Second Wave,0.17
+2022-01-23 00:00:00.000,US,United States,Furloughs,0.10
+2022-01-23 00:00:00.000,US,United States,Debt Default,0.23
+2022-01-23 00:00:00.000,US,United States,Stay at Home,1.48
+2022-01-23 00:00:00.000,US,United States,Panic,6.76
+2022-01-23 00:00:00.000,US,United States,Fake News,1.96
+2022-01-23 00:00:00.000,US,United States,Freedom of Speech,0.40
+2022-01-23 00:00:00.000,US,United States,Freedom of the Press,0.13
+2022-01-23 00:00:00.000,US,United States,Asymptomatic,1.16
+2022-01-23 00:00:00.000,US,United States,Climate Change,1.24
+2022-01-23 00:00:00.000,US,United States,Spanish Flu,0.27
+2022-01-23 00:00:00.000,US,United States,Domestic Violence,0.25
+2022-01-23 00:00:00.000,US,United States,Poverty,0.90
+2022-01-23 00:00:00.000,US,United States,Remote Education,0.83
+2022-01-23 00:00:00.000,US,United States,Reinfection,0.15
+2022-01-23 00:00:00.000,US,United States,War,4.02
+2022-01-23 00:00:00.000,US,United States,Populism,0.29
+2022-01-23 00:00:00.000,US,United States,Anger,3.71
+2022-01-23 00:00:00.000,US,United States,Conspiracy Theories,1.40
+2022-01-23 00:00:00.000,US,United States,Cold War,0.32
+2022-01-23 00:00:00.000,US,United States,Boredom,0.22
+2022-01-23 00:00:00.000,US,United States,Joy,2.23
+2022-01-23 00:00:00.000,US,United States,Charity,1.86
+2022-01-23 00:00:00.000,US,United States,Surveillance,2.64
+2022-01-23 00:00:00.000,US,United States,Inflation,0.45
+2022-01-23 00:00:00.000,US,United States,Mental Health,3.39
+2022-01-23 00:00:00.000,US,United States,Crude Oil,0.65
+2022-01-23 00:00:00.000,US,United States,Herd Immunity,0.27
+2022-01-23 00:00:00.000,US,United States,Immigration,0.55
+2022-01-23 00:00:00.000,US,United States,Elections,3.53
+2022-01-23 00:00:00.000,US,United States,Protests,2.32
+2022-01-23 00:00:00.000,US,United States,Workplace Safety,0.13
+2022-01-23 00:00:00.000,US,United States,Resignations,2.39
+2022-01-23 00:00:00.000,US,United States,Facilities Open,0.17
+2022-01-23 00:00:00.000,US,United States,Unemployment,1.65
+2022-01-23 00:00:00.000,US,United States,Testing,7.80
+2022-01-23 00:00:00.000,US,United States,Lockdown,4.65
+2022-01-23 00:00:00.000,US,United States,Variant,16.33
+2022-01-23 00:00:00.000,US,United States,Vaccine Hesitancy,7.64
+2022-01-23 00:00:00.000,US,United States,First Wave,0.25
+2022-01-23 00:00:00.000,US,United States,Third Wave,0.33
+2022-01-23 00:00:00.000,US,United States,Fourth Wave,0.14
+2022-01-23 00:00:00.000,US,United States,Olympics,2.90
+2022-01-23 00:00:00.000,US,United States,Tourism,2.58
+2022-01-23 00:00:00.000,US,United States,Side Effects,0.68
+2022-01-23 00:00:00.000,UY,Uruguay,Vaccine,0.10
+2022-01-23 00:00:00.000,VA,Vatican,Fear,0.11
+2022-01-23 00:00:00.000,VE,Venezuela,Fear,0.75
+2022-01-23 00:00:00.000,VE,Venezuela,Guns & Ammo,0.74
+2022-01-23 00:00:00.000,VE,Venezuela,Panic,0.75
+2022-01-23 00:00:00.000,VE,Venezuela,Charity,0.72
+2022-01-23 00:00:00.000,VE,Venezuela,Protests,0.73
+2022-01-23 00:00:00.000,VN,Vietnam,Vaccine,0.31
+2022-01-23 00:00:00.000,VN,Vietnam,Fear,0.17
+2022-01-23 00:00:00.000,VN,Vietnam,War,0.27
+2022-01-23 00:00:00.000,VN,Vietnam,Anger,0.10
+2022-01-23 00:00:00.000,VN,Vietnam,Joy,0.14
+2022-01-23 00:00:00.000,VN,Vietnam,Protests,0.14
+2022-01-23 00:00:00.000,VN,Vietnam,Variant,0.21
+2022-01-23 00:00:00.000,ZA,South Africa,Social Distancing,0.15
+2022-01-23 00:00:00.000,ZA,South Africa,Test Positive,0.74
+2022-01-23 00:00:00.000,ZA,South Africa,Test Negative,0.12
+2022-01-23 00:00:00.000,ZA,South Africa,Confirmed Cases,0.35
+2022-01-23 00:00:00.000,ZA,South Africa,Vaccine,1.54
+2022-01-23 00:00:00.000,ZA,South Africa,Fear,0.58
+2022-01-23 00:00:00.000,ZA,South Africa,Mutations,0.19
+2022-01-23 00:00:00.000,ZA,South Africa,Fines,0.16
+2022-01-23 00:00:00.000,ZA,South Africa,Panic,0.21
+2022-01-23 00:00:00.000,ZA,South Africa,Spanish Flu,0.20
+2022-01-23 00:00:00.000,ZA,South Africa,Surveillance,0.11
+2022-01-23 00:00:00.000,ZA,South Africa,Mental Health,0.23
+2022-01-23 00:00:00.000,ZA,South Africa,Elections,0.11
+2022-01-23 00:00:00.000,ZA,South Africa,Testing,0.53
+2022-01-23 00:00:00.000,ZA,South Africa,Lockdown,0.23
+2022-01-23 00:00:00.000,ZA,South Africa,Variant,1.46
+2022-01-23 00:00:00.000,ZA,South Africa,Vaccine Hesitancy,0.75
+2022-01-23 00:00:00.000,ZA,South Africa,Third Wave,0.20
+2022-01-23 00:00:00.000,ZA,South Africa,Olympics,0.10
+2022-01-23 00:00:00.000,ZA,South Africa,Tourism,0.11

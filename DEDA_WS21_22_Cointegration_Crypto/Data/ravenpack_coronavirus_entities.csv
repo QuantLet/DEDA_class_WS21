@@ -1,0 +1,1315 @@
+TIMESTAMP_UTC,SEGMENT,COUNTRY_CODE,ENTITY_NAME,MEDIA_EXPOSURE_RATIO
+2022-01-23 00:00:00.000,Politicians,US,Joe Biden,38.45
+2022-01-23 00:00:00.000,Politicians,US,Donald Trump,12.71
+2022-01-23 00:00:00.000,Politicians,GB,Boris Johnson,10.50
+2022-01-23 00:00:00.000,Politicians,CN,Xi Jinping,5.02
+2022-01-23 00:00:00.000,Politicians,US,Tony Blinken,4.91
+2022-01-23 00:00:00.000,Politicians,US,Anthony Fauci,4.57
+2022-01-23 00:00:00.000,Politicians,RU,Vladimir Putin,4.25
+2022-01-23 00:00:00.000,Politicians,US,Jen Psaki,4.12
+2022-01-23 00:00:00.000,Politicians,GB,Elizabeth Truss,4.05
+2022-01-23 00:00:00.000,Politicians,US,Kathy Hochul,4.03
+2022-01-23 00:00:00.000,Politicians,US,Barack Obama,3.91
+2022-01-23 00:00:00.000,Politicians,US,Rochelle Walensky,3.62
+2022-01-23 00:00:00.000,Politicians,GB,Sajid  Javid,3.57
+2022-01-23 00:00:00.000,Politicians,IN,Narendra Modi,3.12
+2022-01-23 00:00:00.000,Politicians,MX,Andrés Manuel López Obrador,2.95
+2022-01-23 00:00:00.000,Politicians,GB,Michael Gove,2.75
+2022-01-23 00:00:00.000,Politicians,GB,Jeremy Hunt,2.75
+2022-01-23 00:00:00.000,Politicians,RU,Sergei Viktorovich Lavrov,2.66
+2022-01-23 00:00:00.000,Politicians,DE,Olaf Scholz,2.25
+2022-01-23 00:00:00.000,Politicians,IT,Silvio Berlusconi,2.00
+2022-01-23 00:00:00.000,Politicians,US,Andrew Mark Cuomo,2.03
+2022-01-23 00:00:00.000,Politicians,IT,Mario Draghi,1.86
+2022-01-23 00:00:00.000,Politicians,IT,Matteo Salvini,1.86
+2022-01-23 00:00:00.000,Politicians,PT,António Guterres,1.86
+2022-01-23 00:00:00.000,Politicians,IT,Sergio Mattarella,1.80
+2022-01-23 00:00:00.000,Politicians,IT,Giorgia Meloni,1.77
+2022-01-23 00:00:00.000,Politicians,US,Bill Clinton,1.75
+2022-01-23 00:00:00.000,Politicians,US,Kamala Harris,1.70
+2022-01-23 00:00:00.000,Politicians,US,Ron DeSantis,1.61
+2022-01-23 00:00:00.000,Politicians,RU,Dmitry Sergeyevich Peskov,1.62
+2022-01-23 00:00:00.000,Politicians,US,Joe Manchin,1.61
+2022-01-23 00:00:00.000,Politicians,AU,Scott Morrison,1.59
+2022-01-23 00:00:00.000,Politicians,US,Michael Bloomberg,1.45
+2022-01-23 00:00:00.000,Politicians,EE,Kalle Laanet,1.41
+2022-01-23 00:00:00.000,Politicians,US,Michelle Obama,1.39
+2022-01-23 00:00:00.000,Politicians,US,J. B. Pritzker,1.39
+2022-01-23 00:00:00.000,Politicians,US,Larry Hogan,1.32
+2022-01-23 00:00:00.000,Politicians,US,Gavin Newsom,1.30
+2022-01-23 00:00:00.000,Politicians,FR,Jean Castex,1.21
+2022-01-23 00:00:00.000,Politicians,CN,Carrie Lam Cheng Yuet-ngor,1.21
+2022-01-23 00:00:00.000,Politicians,US,Asa Hutchinson,1.20
+2022-01-23 00:00:00.000,Politicians,US,Kyrsten Sinema,1.16
+2022-01-23 00:00:00.000,Politicians,US,George W. Bush,1.12
+2022-01-23 00:00:00.000,Politicians,RU,Sergey Shoygu,1.09
+2022-01-23 00:00:00.000,Politicians,GB,Ben Wallace,1.09
+2022-01-23 00:00:00.000,Politicians,US,Mitch McConnell,1.02
+2022-01-23 00:00:00.000,Politicians,ES,Pedro Sánchez,1.02
+2022-01-23 00:00:00.000,Politicians,US,Chuck Schumer,1.02
+2022-01-23 00:00:00.000,Politicians,US,Amy Barrett,0.98
+2022-01-23 00:00:00.000,Politicians,US,Rand Paul,0.96
+2022-01-23 00:00:00.000,Politicians,IN,Amit Anilchandra Shah,0.95
+2022-01-23 00:00:00.000,Politicians,VN,Nguyen Xuan Phuc,0.89
+2022-01-23 00:00:00.000,Politicians,AU,Greg Hunt,0.89
+2022-01-23 00:00:00.000,Politicians,US,Kevin McCarthy,0.87
+2022-01-23 00:00:00.000,Politicians,US,Nancy Pelosi,0.82
+2022-01-23 00:00:00.000,Politicians,US,Janet Louise Yellen,0.79
+2022-01-23 00:00:00.000,Politicians,US,Jeffrey D. Zients,0.75
+2022-01-23 00:00:00.000,Politicians,US,Rudy Giuliani,0.73
+2022-01-23 00:00:00.000,Politicians,US,Jeanne Shaheen,0.73
+2022-01-23 00:00:00.000,Politicians,PK,Imran Ahmed Khan  Niazi,0.73
+2022-01-23 00:00:00.000,Politicians,US,Tim Ryan,0.70
+2022-01-23 00:00:00.000,Politicians,FR,Olivier  Véran,0.64
+2022-01-23 00:00:00.000,Politicians,FR,Emmanuel Macron,0.64
+2022-01-23 00:00:00.000,Politicians,US,Jimmy Carter,0.64
+2022-01-23 00:00:00.000,Politicians,US,Alejandro Mayorkas,0.62
+2022-01-23 00:00:00.000,Politicians,NZ,Jacinda Ardern,0.62
+2022-01-23 00:00:00.000,Politicians,US,Rick Scott,0.61
+2022-01-23 00:00:00.000,Politicians,US,Jerome H. Powell,0.61
+2022-01-23 00:00:00.000,Politicians,AU,Anthony N. Albanese,0.59
+2022-01-23 00:00:00.000,Politicians,US,Ron Johnson,0.55
+2022-01-23 00:00:00.000,Politicians,US,Michael Flynn,0.55
+2022-01-23 00:00:00.000,Politicians,US,Hillary Clinton,0.54
+2022-01-23 00:00:00.000,Politicians,US,Sonia Sotomayor,0.52
+2022-01-23 00:00:00.000,Politicians,US,Mike Pence,0.52
+2022-01-23 00:00:00.000,Politicians,DE,Angela Merkel,0.52
+2022-01-23 00:00:00.000,Politicians,US,Robert Francis Kennedy,0.50
+2022-01-23 00:00:00.000,Politicians,GB,Charles Philip Arthur George Windsor,0.48
+2022-01-23 00:00:00.000,Politicians,GB,Rishi  Sunak,0.48
+2022-01-23 00:00:00.000,Politicians,US,Jim Clyburn,0.46
+2022-01-23 00:00:00.000,Politicians,US,Ron Wyden,0.46
+2022-01-23 00:00:00.000,Politicians,US,Alexandria Ocasio-Cortez,0.46
+2022-01-23 00:00:00.000,Politicians,CA,Justin Trudeau,0.46
+2022-01-23 00:00:00.000,Politicians,IN,Mayawati,0.46
+2022-01-23 00:00:00.000,Politicians,US,Steve Bannon,0.45
+2022-01-23 00:00:00.000,Politicians,PH,Rodrigo Duterte,0.45
+2022-01-23 00:00:00.000,Politicians,US,Greg Abbott,0.43
+2022-01-23 00:00:00.000,Politicians,GB,Prince William,0.43
+2022-01-23 00:00:00.000,Politicians,US,Robert Jones Portman,0.41
+2022-01-23 00:00:00.000,Politicians,IT,Matteo Renzi,0.41
+2022-01-23 00:00:00.000,Politicians,US,Merrick Garland,0.41
+2022-01-23 00:00:00.000,Politicians,PH,Leni Robredo,0.39
+2022-01-23 00:00:00.000,Politicians,IN,Rahul Gandhi,0.39
+2022-01-23 00:00:00.000,Politicians,ID,Joko Widodo,0.37
+2022-01-23 00:00:00.000,Politicians,JP,Yoshihide Suga,0.37
+2022-01-23 00:00:00.000,Politicians,DE,Armin Laschet,0.37
+2022-01-23 00:00:00.000,Politicians,US,Marco Rubio,0.36
+2022-01-23 00:00:00.000,Politicians,US,John Kennedy,0.36
+2022-01-23 00:00:00.000,Politicians,ET,Tedros Adhanom Ghebreyesus,0.36
+2022-01-23 00:00:00.000,Politicians,AU,Josh Frydenberg,0.36
+2022-01-23 00:00:00.000,Politicians,KP,Kim Jong-Un,0.34
+2022-01-23 00:00:00.000,Politicians,US,Bernie Sanders,0.34
+2022-01-23 00:00:00.000,Politicians,US,Ken Paxton,0.34
+2022-01-23 00:00:00.000,Politicians,IL,Naftali Bennett,0.34
+2022-01-23 00:00:00.000,Politicians,US,Sherrod Brown,0.34
+2022-01-23 00:00:00.000,Politicians,US,Lisa Murkowski,0.32
+2022-01-23 00:00:00.000,Politicians,US,Ralph Moody Hall,0.32
+2022-01-23 00:00:00.000,Politicians,US,Patrick Joseph Leahy,0.32
+2022-01-23 00:00:00.000,Politicians,US,Neil Gorsuch,0.32
+2022-01-23 00:00:00.000,Politicians,US,Tim Scott,0.32
+2022-01-23 00:00:00.000,Politicians,BG,Kristalina Georgieva,0.32
+2022-01-23 00:00:00.000,Politicians,US,Richard  Blumenthal,0.32
+2022-01-23 00:00:00.000,Politicians,US,Neel Kashkari,0.32
+2022-01-23 00:00:00.000,Politicians,US,John McCain,0.30
+2022-01-23 00:00:00.000,Politicians,US,Maggie Hassan,0.30
+2022-01-23 00:00:00.000,Politicians,US,John Boozman,0.30
+2022-01-23 00:00:00.000,Politicians,US,Michael Bennet,0.30
+2022-01-23 00:00:00.000,Politicians,US,Pat Toomey,0.30
+2022-01-23 00:00:00.000,Politicians,US,Elizabeth Warren,0.30
+2022-01-23 00:00:00.000,Politicians,US,Richard Burr,0.29
+2022-01-23 00:00:00.000,Politicians,US,Laura  Kelly,0.29
+2022-01-23 00:00:00.000,Politicians,JP,Nobuo  Kishi,0.29
+2022-01-23 00:00:00.000,Politicians,US,Val Demings,0.29
+2022-01-23 00:00:00.000,Politicians,US,John Thune,0.29
+2022-01-23 00:00:00.000,Politicians,US,Brian Schatz,0.29
+2022-01-23 00:00:00.000,Politicians,US,Roy Blunt,0.29
+2022-01-23 00:00:00.000,Politicians,US,Tammy Duckworth,0.29
+2022-01-23 00:00:00.000,Politicians,US,George H. W. Bush,0.29
+2022-01-23 00:00:00.000,Politicians,US,Lloyd Austin,0.29
+2022-01-23 00:00:00.000,Politicians,US,Edward Gene Rendell,0.29
+2022-01-23 00:00:00.000,Politicians,US,Mike Lee,0.29
+2022-01-23 00:00:00.000,Politicians,US,Chuck Grassley,0.29
+2022-01-23 00:00:00.000,Politicians,US,Pat McCrory,0.27
+2022-01-23 00:00:00.000,Politicians,US,James Lankford,0.27
+2022-01-23 00:00:00.000,Politicians,US,Kelly Loeffler,0.27
+2022-01-23 00:00:00.000,Politicians,GB,Priti Patel,0.27
+2022-01-23 00:00:00.000,Politicians,US,Chris Van Hollen,0.27
+2022-01-23 00:00:00.000,Politicians,IN,Akhilesh Yadav,0.27
+2022-01-23 00:00:00.000,Politicians,US,Patricia Lynn Murray,0.27
+2022-01-23 00:00:00.000,Politicians,US,Martha McSally,0.27
+2022-01-23 00:00:00.000,Politicians,US,Todd Young,0.27
+2022-01-23 00:00:00.000,Politicians,CN,Wang Yi,0.27
+2022-01-23 00:00:00.000,Politicians,US,Mike Crapo,0.27
+2022-01-23 00:00:00.000,Politicians,US,Ted Cruz,0.27
+2022-01-23 00:00:00.000,Politicians,US,John Kevin Stitt,0.27
+2022-01-23 00:00:00.000,Politicians,US,Jerry Moran,0.27
+2022-01-23 00:00:00.000,Politicians,US,Frank Murkowski,0.27
+2022-01-23 00:00:00.000,Politicians,US,Catherine Cortez Masto,0.27
+2022-01-23 00:00:00.000,Politicians,US,Gina Raimondo,0.27
+2022-01-23 00:00:00.000,Politicians,US,Martin Walsh,0.27
+2022-01-23 00:00:00.000,Politicians,US,John Hoeven,0.27
+2022-01-23 00:00:00.000,Politicians,US,Sean Parnell,0.27
+2022-01-23 00:00:00.000,Politicians,US,Richard Craig Shelby,0.27
+2022-01-23 00:00:00.000,Politicians,UA,Volodymyr  Zelensky,0.25
+2022-01-23 00:00:00.000,Politicians,TR,Recep Tayyip Erdogan,0.25
+2022-01-23 00:00:00.000,Politicians,JP,Yoshimasa Hayashi,0.25
+2022-01-23 00:00:00.000,Politicians,KH,Hun Sen,0.18
+2022-01-23 00:00:00.000,Politicians,US,Jake Sullivan,0.25
+2022-01-23 00:00:00.000,Politicians,XX,Manohar Gopalkrishna Prabhu  Parrikar,0.23
+2022-01-23 00:00:00.000,Politicians,RU,Tatiana Golikova,0.23
+2022-01-23 00:00:00.000,Politicians,NG,Muhammadu Buhari,0.23
+2022-01-23 00:00:00.000,Politicians,US,Wendy Sherman,0.21
+2022-01-23 00:00:00.000,Politicians,IE,Micheál Martin,0.21
+2022-01-23 00:00:00.000,Politicians,MM,Aung San Suu Kyi,0.21
+2022-01-23 00:00:00.000,Politicians,GB,Queen Elizabeth II,0.21
+2022-01-23 00:00:00.000,Politicians,RU,Sergei  Ryabkov,0.21
+2022-01-23 00:00:00.000,Politicians,US,Jay Inslee,0.21
+2022-01-23 00:00:00.000,Politicians,FR,Christine Lagarde,0.21
+2022-01-23 00:00:00.000,Politicians,BD,Sheikh Hasina,0.20
+2022-01-23 00:00:00.000,Politicians,US,Pete Buttigieg,0.20
+2022-01-23 00:00:00.000,Politicians,GB,Tony Blair,0.20
+2022-01-23 00:00:00.000,Politicians,US,Mitt Romney,0.20
+2022-01-23 00:00:00.000,Politicians,ZA,Matsie Angelina Motshekga,0.20
+2022-01-23 00:00:00.000,Politicians,US,Amy Klobuchar,0.20
+2022-01-23 00:00:00.000,Politicians,NG,Yemi Osinbajo,0.20
+2022-01-23 00:00:00.000,Politicians,US,Bradley Jay Little,0.20
+2022-01-23 00:00:00.000,Politicians,KR,Moon Jae-In,0.20
+2022-01-23 00:00:00.000,Politicians,IN,Rajnath Singh,0.20
+2022-01-23 00:00:00.000,Politicians,RU,Sergei Semyonovich Sobyanin,0.20
+2022-01-23 00:00:00.000,Politicians,US,Kimberly Reynolds,0.20
+2022-01-23 00:00:00.000,Politicians,SG,Lee Hsien Loong,0.20
+2022-01-23 00:00:00.000,Politicians,US,Elise Stefanik,0.18
+2022-01-23 00:00:00.000,Politicians,US,Dr. Zeke Emanuel,0.18
+2022-01-23 00:00:00.000,Politicians,US,Robert Menendez,0.18
+2022-01-23 00:00:00.000,Politicians,US,Terry McAuliffe,0.18
+2022-01-23 00:00:00.000,Politicians,GB,David Davis,0.18
+2022-01-23 00:00:00.000,Politicians,US,Emanuel Chris Welch,0.18
+2022-01-23 00:00:00.000,Politicians,US,Cory Booker,0.18
+2022-01-23 00:00:00.000,Politicians,GB,Kate Middleton,0.18
+2022-01-23 00:00:00.000,Politicians,US,Michelle  Lujan  Grisham,0.18
+2022-01-23 00:00:00.000,Politicians,ZA,Cyril Ramaphosa,0.16
+2022-01-23 00:00:00.000,Politicians,LK,Mahinda Rajapaksa,0.16
+2022-01-23 00:00:00.000,Politicians,IN,Nirmala Sitharaman,0.16
+2022-01-23 00:00:00.000,Politicians,US,Brian Kemp,0.16
+2022-01-23 00:00:00.000,Politicians,US,Deb Haaland,0.16
+2022-01-23 00:00:00.000,Politicians,US,Kate Brown,0.16
+2022-01-23 00:00:00.000,Politicians,BE,Ursula von der Leyen,0.16
+2022-01-23 00:00:00.000,Politicians,IN,Priyanka Gandhi,0.16
+2022-01-23 00:00:00.000,Politicians,IE,Leo Varadkar,0.16
+2022-01-23 00:00:00.000,Politicians,GB,Edward Jonathan Davey,0.14
+2022-01-23 00:00:00.000,Politicians,US,Jen O'Malley Dillon,0.14
+2022-01-23 00:00:00.000,Politicians,RU,Mikhail Mishustin,0.14
+2022-01-23 00:00:00.000,Politicians,JP,Fumio Kishida,0.14
+2022-01-23 00:00:00.000,Politicians,IN,Piyush Vedprakash Goyal,0.14
+2022-01-23 00:00:00.000,Politicians,RW,Paul Kagame,0.14
+2022-01-23 00:00:00.000,Politicians,GB,Mark Harper,0.14
+2022-01-23 00:00:00.000,Politicians,GB,Nigel Farage,0.14
+2022-01-23 00:00:00.000,Politicians,GB,Steve Baker,0.14
+2022-01-23 00:00:00.000,Politicians,US,Joni Ernst,0.14
+2022-01-23 00:00:00.000,Politicians,GB,Rory Stewart,0.14
+2022-01-23 00:00:00.000,Politicians,US,Pete Ricketts,0.14
+2022-01-23 00:00:00.000,Politicians,UG,Yoweri Kaguta Museveni,0.14
+2022-01-23 00:00:00.000,Politicians,US,Tom Vilsack,0.14
+2022-01-23 00:00:00.000,Politicians,US,Michael McCaul,0.14
+2022-01-23 00:00:00.000,Politicians,US,Arnold Alois Schwarzenegger,0.14
+2022-01-23 00:00:00.000,Politicians,US,Bill de Blasio,0.14
+2022-01-23 00:00:00.000,Politicians,US,Deb Fischer,0.14
+2022-01-23 00:00:00.000,Politicians,US,Xavier Becerra,0.14
+2022-01-23 00:00:00.000,Politicians,US,Woody Johnson,0.14
+2022-01-23 00:00:00.000,Politicians,US,Liz Cheney,0.12
+2022-01-23 00:00:00.000,Politicians,GB,John  McDonnell,0.12
+2022-01-23 00:00:00.000,Politicians,AO,João Manuel Gonçalves Lourenço,0.12
+2022-01-23 00:00:00.000,Politicians,GB,Liam Dominic Byrne,0.12
+2022-01-23 00:00:00.000,Politicians,US,Andrew Beshear,0.12
+2022-01-23 00:00:00.000,Politicians,US,Bennie G. Thompson,0.12
+2022-01-23 00:00:00.000,Politicians,US,Scott Kevin Walker,0.12
+2022-01-23 00:00:00.000,Politicians,US,John Kerry,0.12
+2022-01-23 00:00:00.000,Politicians,US,Dan Scavino,0.12
+2022-01-23 00:00:00.000,Politicians,US,Susan Margaret Collins,0.12
+2022-01-23 00:00:00.000,Politicians,US,Brett Kavanaugh,0.12
+2022-01-23 00:00:00.000,Politicians,US,Clarence Thomas,0.12
+2022-01-23 00:00:00.000,Politicians,US,Samuel Alito,0.12
+2022-01-23 00:00:00.000,Politicians,IN,Digvijaya  Singh,0.12
+2022-01-23 00:00:00.000,Politicians,US,John Cornyn,0.12
+2022-01-23 00:00:00.000,Politicians,GB,Sadiq Khan,0.12
+2022-01-23 00:00:00.000,Politicians,BE,Charles Michel,0.12
+2022-01-23 00:00:00.000,Politicians,CH,Alain Berset,0.12
+2022-01-23 00:00:00.000,Politicians,US,Dr. Michael Osterholm,0.11
+2022-01-23 00:00:00.000,Politicians,US,Ron Klain,0.11
+2022-01-23 00:00:00.000,Politicians,US,Dr. Celine Gounder,0.11
+2022-01-23 00:00:00.000,Politicians,AU,Daniel Andrews,0.11
+2022-01-23 00:00:00.000,Politicians,IN,Mulayam  Singh Yadav,0.11
+2022-01-23 00:00:00.000,Politicians,US,Lee  Zeldin,0.11
+2022-01-23 00:00:00.000,Politicians,CD,Felix Tshisekedi,0.11
+2022-01-23 00:00:00.000,Politicians,GB,Prince Harry,0.11
+2022-01-23 00:00:00.000,Politicians,IL,Benjamin Netanyahu,0.11
+2022-01-23 00:00:00.000,Politicians,US,Wilmot Reed Hastings,0.11
+2022-01-23 00:00:00.000,Politicians,BD,Abdul Hamid,0.11
+2022-01-23 00:00:00.000,Politicians,GB,Nicola Sturgeon,0.11
+2022-01-23 00:00:00.000,Politicians,IN,Subrahmanyam  Jaishankar,0.11
+2022-01-23 00:00:00.000,Politicians,BE,Alexander De Croo,0.11
+2022-01-23 00:00:00.000,Politicians,US,Gretchen Whitmer,0.11
+2022-01-23 00:00:00.000,Treatments,XX,Pfizer-BioNTech Covid Vaccine,24.68
+2022-01-23 00:00:00.000,Treatments,XX,Remdesivir,20.51
+2022-01-23 00:00:00.000,Treatments,XX,Veklury (remdesivir),14.16
+2022-01-23 00:00:00.000,Treatments,XX,Ivermectin,8.17
+2022-01-23 00:00:00.000,Treatments,XX,Paxlovid (nirmatrelvir/ritonavir),7.62
+2022-01-23 00:00:00.000,Treatments,XX,Molnupiravir,6.53
+2022-01-23 00:00:00.000,Treatments,XX,Hydroxychloroquine,6.90
+2022-01-23 00:00:00.000,Treatments,XX,Sputnik Covid Vaccine,5.81
+2022-01-23 00:00:00.000,Treatments,XX,Sinovac Covid Vaccine,4.36
+2022-01-23 00:00:00.000,Treatments,XX,Serum Institute Covid Vaccine,4.17
+2022-01-23 00:00:00.000,Treatments,XX,Moderna Covid Vaccine,4.17
+2022-01-23 00:00:00.000,Treatments,XX,Zyesami,3.81
+2022-01-23 00:00:00.000,Treatments,XX,Aviptadil,3.81
+2022-01-23 00:00:00.000,Treatments,XX,India's First Covid Vaccine,3.27
+2022-01-23 00:00:00.000,Treatments,XX,AstraZeneca Covid Vaccine,2.36
+2022-01-23 00:00:00.000,Treatments,XX,REGEN-COV (Drug),1.81
+2022-01-23 00:00:00.000,Treatments,XX,Dexamethasone,1.63
+2022-01-23 00:00:00.000,Treatments,XX,Chloroquine,1.45
+2022-01-23 00:00:00.000,Treatments,XX,Johnson & Johnson Covid Vaccine,1.45
+2022-01-23 00:00:00.000,Treatments,XX,Tocilizumab,1.09
+2022-01-23 00:00:00.000,Treatments,XX,Ibuprofen,1.09
+2022-01-23 00:00:00.000,Treatments,XX,Risankizumab,0.91
+2022-01-23 00:00:00.000,Treatments,XX,Colchicine,0.73
+2022-01-23 00:00:00.000,Treatments,XX,Azithromycin,0.73
+2022-01-23 00:00:00.000,Treatments,XX,Corbevax (Vaccine),0.73
+2022-01-23 00:00:00.000,Treatments,XX,BBIBP-CorV (Vaccine),0.73
+2022-01-23 00:00:00.000,Treatments,XX,Actemra (tocilizumab),0.36
+2022-01-23 00:00:00.000,Treatments,XX,Fluvoxamine,0.36
+2022-01-23 00:00:00.000,Treatments,XX,COVI-DROPS,0.36
+2022-01-23 00:00:00.000,Treatments,XX,Tamiflu (oseltamivir),0.36
+2022-01-23 00:00:00.000,Treatments,XX,Elecsys Anti-SARS-CoV-2,0.36
+2022-01-23 00:00:00.000,Treatments,XX,SpFN Covid Vaccine,0.36
+2022-01-23 00:00:00.000,Treatments,XX,AbC-19 Rapid Test,0.36
+2022-01-23 00:00:00.000,Treatments,XX,Etesevimab,0.36
+2022-01-23 00:00:00.000,Treatments,XX,Avdoralimab,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Galidesivir,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Monalizumab,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Bamlanivimab,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Emricasan,0.18
+2022-01-23 00:00:00.000,Treatments,XX,SCB-2019 (Vaccine),0.18
+2022-01-23 00:00:00.000,Treatments,XX,Tixagevimab,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Covovax (Vaccine),0.18
+2022-01-23 00:00:00.000,Treatments,XX,Cuban Soberana Covid Vaccine,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Baricitinib,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Artemisinin,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Nafamostat,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Otezla (apremilast),0.18
+2022-01-23 00:00:00.000,Treatments,XX,Narsoplimab,0.18
+2022-01-23 00:00:00.000,Treatments,XX,COVI-MSC,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Sputnik Light Vaccine,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Avitinib,0.18
+2022-01-23 00:00:00.000,Treatments,XX,COVI-AMG,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Midazolam,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Novavax Covid Vaccine,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Niclosamide,0.18
+2022-01-23 00:00:00.000,Treatments,XX,MVC-COV1901 (Vaccine),0.18
+2022-01-23 00:00:00.000,Treatments,XX,Cuban Abdala Covid Vaccine,0.18
+2022-01-23 00:00:00.000,Treatments,XX,Arbidol (umifenovir),0.18
+2022-01-23 00:00:00.000,Treatments,XX,Umifenovir,0.18
+2022-01-23 00:00:00.000,Airlines,US,United Airlines Holdings Inc.,33.99
+2022-01-23 00:00:00.000,Airlines,US,American Airlines Group Inc.,24.45
+2022-01-23 00:00:00.000,Airlines,CN,Air China Ltd.,27.14
+2022-01-23 00:00:00.000,Airlines,CN,China Southern Airlines Co. Ltd.,26.16
+2022-01-23 00:00:00.000,Airlines,US,Delta Air Lines Inc.,24.69
+2022-01-23 00:00:00.000,Airlines,CN,China Eastern Airlines Corp. Ltd.,21.76
+2022-01-23 00:00:00.000,Airlines,US,Hawaiian Holdings Inc.,16.63
+2022-01-23 00:00:00.000,Airlines,NZ,Air New Zealand Ltd.,5.87
+2022-01-23 00:00:00.000,Airlines,AU,Qantas Airways Ltd.,5.38
+2022-01-23 00:00:00.000,Airlines,QA,Qatar Airways Co. Q.C.S.C.,3.91
+2022-01-23 00:00:00.000,Airlines,ES,International Consolidated Airlines Group S.A.,3.67
+2022-01-23 00:00:00.000,Airlines,AU,Virgin Australia Holdings Ltd.,4.40
+2022-01-23 00:00:00.000,Airlines,HK,Cathay Pacific Airways Ltd.,3.42
+2022-01-23 00:00:00.000,Airlines,AE,Etihad Aviation Group PJSC,3.67
+2022-01-23 00:00:00.000,Airlines,SG,Singapore Airlines Ltd.,3.42
+2022-01-23 00:00:00.000,Airlines,AE,Emirates Group,2.93
+2022-01-23 00:00:00.000,Airlines,FJ,Fiji Airways Ltd.,2.69
+2022-01-23 00:00:00.000,Airlines,PK,Pakistan International Airlines Corp. Ltd.,2.44
+2022-01-23 00:00:00.000,Airlines,US,Allegiant Travel Co.,2.20
+2022-01-23 00:00:00.000,Airlines,MY,AirAsia Group Bhd,0.73
+2022-01-23 00:00:00.000,Airlines,US,JetBlue Airways Corp.,2.20
+2022-01-23 00:00:00.000,Airlines,GB,easyJet PLC,1.71
+2022-01-23 00:00:00.000,Airlines,DE,Deutsche Lufthansa AG,1.71
+2022-01-23 00:00:00.000,Airlines,CA,Air Canada Inc.,1.47
+2022-01-23 00:00:00.000,Airlines,JE,Wizz Air Holdings PLC,1.22
+2022-01-23 00:00:00.000,Airlines,FI,Finnair Oyj,1.22
+2022-01-23 00:00:00.000,Airlines,US,Southwest Airlines Co.,1.22
+2022-01-23 00:00:00.000,Airlines,IE,Ryanair Holdings PLC,1.22
+2022-01-23 00:00:00.000,Airlines,VN,Vietnam Airlines JSC,0.98
+2022-01-23 00:00:00.000,Airlines,ET,Aviation Holding Group,0.98
+2022-01-23 00:00:00.000,Airlines,PT,TAP Portugal S.A.,0.98
+2022-01-23 00:00:00.000,Airlines,IN,Air India Ltd.,0.98
+2022-01-23 00:00:00.000,Airlines,IT,Alitalia S.p.A.,0.98
+2022-01-23 00:00:00.000,Airlines,GB,Virgin Atlantic Airways Ltd.,0.98
+2022-01-23 00:00:00.000,Airlines,TH,Thai Airways International PLC,0.49
+2022-01-23 00:00:00.000,Airlines,VN,VietJet Aviation Joint Stock Co.,0.73
+2022-01-23 00:00:00.000,Airlines,BH,Gulf Air Company G.S.C.,0.73
+2022-01-23 00:00:00.000,Airlines,TH,Bangkok Airways PCL,0.73
+2022-01-23 00:00:00.000,Airlines,US,Alaska Air Group Inc.,0.73
+2022-01-23 00:00:00.000,Airlines,MT,Air Malta PLC,0.73
+2022-01-23 00:00:00.000,Airlines,US,Controladora Vuela Compania de Aviacion S.A.B. de C.V.,0.73
+2022-01-23 00:00:00.000,Airlines,FR,Air France-KLM  S.A.,0.49
+2022-01-23 00:00:00.000,Airlines,MY,Malaysia Airlines Bhd,0.49
+2022-01-23 00:00:00.000,Airlines,NO,Norwegian Air Shuttle ASA,0.49
+2022-01-23 00:00:00.000,Airlines,MX,Grupo Aeromexico S.A.B. de C.V.,0.49
+2022-01-23 00:00:00.000,Airlines,IS,Icelandair Group hf.,0.49
+2022-01-23 00:00:00.000,Airlines,ZA,South African Airways Pty. Ltd.,0.24
+2022-01-23 00:00:00.000,Airlines,US,SkyWest Inc.,0.49
+2022-01-23 00:00:00.000,Airlines,IN,Jet Airways (India) Ltd.,0.24
+2022-01-23 00:00:00.000,Airlines,PA,Avianca Holdings S.A.,0.24
+2022-01-23 00:00:00.000,Airlines,CN,HNA Group Co. Ltd.,0.24
+2022-01-23 00:00:00.000,Airlines,ID,PT Lion Mentari Airlines,0.24
+2022-01-23 00:00:00.000,Airlines,PA,Copa Holdings S.A.,0.24
+2022-01-23 00:00:00.000,Airlines,JP,Japan Airlines Co. Ltd.,0.24
+2022-01-23 00:00:00.000,Airlines,TR,Turkish Airlines Inc.,0.24
+2022-01-23 00:00:00.000,Airlines,US,Spirit Airlines Inc.,0.24
+2022-01-23 00:00:00.000,Airlines,IN,Kingfisher Airlines Ltd.,0.24
+2022-01-23 00:00:00.000,Airlines,GB,Fastjet PLC,0.24
+2022-01-23 00:00:00.000,Airlines,JO,Royal Jordanian Airlines PLC,0.24
+2022-01-23 00:00:00.000,Airlines,KE,Kenya Airways Ltd.,0.24
+2022-01-23 00:00:00.000,Food & Beverages,NL,Koninklijke Wessanen N.V.,43.18
+2022-01-23 00:00:00.000,Food & Beverages,US,PepsiCo Inc.,37.65
+2022-01-23 00:00:00.000,Food & Beverages,US,Abbott Laboratories Inc.,4.66
+2022-01-23 00:00:00.000,Food & Beverages,RO,Coca-Cola Co.,1.73
+2022-01-23 00:00:00.000,Food & Beverages,US,Tyson Foods Inc.,1.55
+2022-01-23 00:00:00.000,Food & Beverages,MY,Genting Bhd,1.04
+2022-01-23 00:00:00.000,Food & Beverages,US,Colgate-Palmolive Co.,1.21
+2022-01-23 00:00:00.000,Food & Beverages,US,Mars Inc.,1.04
+2022-01-23 00:00:00.000,Food & Beverages,US,The Kraft Heinz Co.,0.86
+2022-01-23 00:00:00.000,Food & Beverages,US,Archer-Daniels-Midland Co.,0.69
+2022-01-23 00:00:00.000,Food & Beverages,US,Hershey Co.,0.69
+2022-01-23 00:00:00.000,Food & Beverages,IN,Marico Ltd.,0.69
+2022-01-23 00:00:00.000,Food & Beverages,FR,Danone S.A.,0.52
+2022-01-23 00:00:00.000,Food & Beverages,DE,Dr. Oetker Group,0.52
+2022-01-23 00:00:00.000,Food & Beverages,US,Mondelez International Inc.,0.52
+2022-01-23 00:00:00.000,Food & Beverages,US,Land O'Lakes Inc.,0.52
+2022-01-23 00:00:00.000,Food & Beverages,CH,Nestle S.A.,0.52
+2022-01-23 00:00:00.000,Food & Beverages,US,Keurig Dr. Pepper Inc.,0.35
+2022-01-23 00:00:00.000,Food & Beverages,CA,Lallemand Inc.,0.35
+2022-01-23 00:00:00.000,Food & Beverages,US,J.M. Smucker Co.,0.35
+2022-01-23 00:00:00.000,Food & Beverages,GB,Diageo PLC,0.35
+2022-01-23 00:00:00.000,Food & Beverages,BM,Bacardi Ltd.,0.35
+2022-01-23 00:00:00.000,Food & Beverages,IN,Adani Enterprises Ltd.,0.35
+2022-01-23 00:00:00.000,Food & Beverages,US,Kellogg Co.,0.35
+2022-01-23 00:00:00.000,Food & Beverages,US,Ingredion Inc.,0.35
+2022-01-23 00:00:00.000,Food & Beverages,US,Cargill Inc.,0.35
+2022-01-23 00:00:00.000,Food & Beverages,IN,Jain Irrigation Systems Ltd.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,AeroFarms Inc.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,IT,Massimo Zanetti Beverage Group SpA,0.17
+2022-01-23 00:00:00.000,Food & Beverages,DK,Danisco A/S,0.17
+2022-01-23 00:00:00.000,Food & Beverages,JP,Morinaga Milk Industry Co. Ltd.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,GB,Tate & Lyle PLC,0.17
+2022-01-23 00:00:00.000,Food & Beverages,GB,Unilever PLC,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,Constellation Brands Inc.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,China-Biotics Inc.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,Farmer Bros. Co.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,JP,Yakult Honsha Co. Ltd.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,Coffee Holding Co. Inc.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,IE,Kerry Group PLC,0.17
+2022-01-23 00:00:00.000,Food & Beverages,CA,Village Farms International Inc.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,Jammin Java Corp.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,Campbell Soup Co.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,Shearer's Foods LLC,0.17
+2022-01-23 00:00:00.000,Food & Beverages,DE,Suedzucker AG,0.17
+2022-01-23 00:00:00.000,Food & Beverages,BM,Purecircle Ltd.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,IL,Strauss Group Ltd.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,Simply Good Foods Co.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,KY,Tingyi (Cayman Islands) Holding Corp.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,ZA,Illovo Sugar Ltd.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,NL,Koninklijke DSM N.V.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,FR,Remy Cointreau S.A.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,General Mills Inc.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,Impossible Foods Inc.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,Beyond Meat Inc.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,GB,BrewDog PLC,0.17
+2022-01-23 00:00:00.000,Food & Beverages,NG,Nigerian Breweries PLC,0.17
+2022-01-23 00:00:00.000,Food & Beverages,MY,Hap Seng Consolidated Bhd,0.17
+2022-01-23 00:00:00.000,Food & Beverages,US,BioGaia AB,0.17
+2022-01-23 00:00:00.000,Food & Beverages,GB,R.E.A. Holdings PLC,0.17
+2022-01-23 00:00:00.000,Food & Beverages,JE,The Scottish Salmon Co. Ltd.,0.17
+2022-01-23 00:00:00.000,Food & Beverages,TH,Thai Union Group PCL,0.17
+2022-01-23 00:00:00.000,Financials,US,Lilly Endowment Inc.,13.65
+2022-01-23 00:00:00.000,Financials,US,Nash Holdings LLC,10.97
+2022-01-23 00:00:00.000,Financials,MX,Goldman Sachs Group Inc.,10.74
+2022-01-23 00:00:00.000,Financials,CN,Binance Holdings Ltd.,10.68
+2022-01-23 00:00:00.000,Financials,US,Icahn Enterprises L.P.,4.63
+2022-01-23 00:00:00.000,Financials,US,Wells Fargo & Co.,3.94
+2022-01-23 00:00:00.000,Financials,GB,London Stock Exchange Group PLC,3.26
+2022-01-23 00:00:00.000,Financials,US,Citigroup Inc.,3.08
+2022-01-23 00:00:00.000,Financials,CA,Royal Bank of Canada Inc.,2.86
+2022-01-23 00:00:00.000,Financials,US,Bank of America Corp.,2.51
+2022-01-23 00:00:00.000,Financials,US,NRX Pharmaceuticals Inc.,1.20
+2022-01-23 00:00:00.000,Financials,US,JPMorgan Chase & Co.,2.17
+2022-01-23 00:00:00.000,Financials,CH,UBS Group AG,2.06
+2022-01-23 00:00:00.000,Financials,US,Nasdaq Inc.,2.06
+2022-01-23 00:00:00.000,Financials,US,Morgan Stanley Co.,1.66
+2022-01-23 00:00:00.000,Financials,CH,Credit Suisse Group AG,1.71
+2022-01-23 00:00:00.000,Financials,US,U.S. Bancorp,1.54
+2022-01-23 00:00:00.000,Financials,CH,Berkshire Hathaway Inc.,1.37
+2022-01-23 00:00:00.000,Financials,US,State Farm Mutual Automobile Insurance Co.,1.37
+2022-01-23 00:00:00.000,Financials,US,Oak Valley Bancorp,0.63
+2022-01-23 00:00:00.000,Financials,US,Bank of New York Mellon Corp.,1.31
+2022-01-23 00:00:00.000,Financials,IN,ICICI Bank Ltd.,0.91
+2022-01-23 00:00:00.000,Financials,US,The Charles Schwab Corp.,0.97
+2022-01-23 00:00:00.000,Financials,BM,GP Investments Ltd.,0.91
+2022-01-23 00:00:00.000,Financials,US,CME Group Inc.,0.91
+2022-01-23 00:00:00.000,Financials,US,IHS Markit Ltd.,0.91
+2022-01-23 00:00:00.000,Financials,GB,Barclays PLC,0.86
+2022-01-23 00:00:00.000,Financials,US,Raymond James Financial Inc.,0.86
+2022-01-23 00:00:00.000,Financials,US,American Express Co.,0.80
+2022-01-23 00:00:00.000,Financials,US,Stephens Inc.,0.80
+2022-01-23 00:00:00.000,Financials,US,Janney Montgomery Scott LLC,0.80
+2022-01-23 00:00:00.000,Financials,US,Coinbase Global Inc.,0.80
+2022-01-23 00:00:00.000,Financials,AR,Federal Home Loan Mortgage Corp.,0.74
+2022-01-23 00:00:00.000,Financials,US,RBB Bancorp,0.69
+2022-01-23 00:00:00.000,Financials,JP,Nomura Holdings Inc.,0.63
+2022-01-23 00:00:00.000,Financials,GB,AJ Bell PLC,0.63
+2022-01-23 00:00:00.000,Financials,IN,IDBI Bank Ltd.,0.63
+2022-01-23 00:00:00.000,Financials,US,Capital One Financial Corp.,0.57
+2022-01-23 00:00:00.000,Financials,US,Rakuten Group Inc.,0.57
+2022-01-23 00:00:00.000,Financials,US,Piper Sandler Cos.,0.57
+2022-01-23 00:00:00.000,Financials,US,Constellation Insurance Holdings Inc.,0.57
+2022-01-23 00:00:00.000,Financials,DE,Willis Towers Watson PLC,0.40
+2022-01-23 00:00:00.000,Financials,US,Moody's Corp.,0.57
+2022-01-23 00:00:00.000,Financials,CA,Canaccord Genuity Group Inc.,0.57
+2022-01-23 00:00:00.000,Financials,US,Fitch Ratings Inc.,0.57
+2022-01-23 00:00:00.000,Financials,GB,Scottish Mortgage Investment Trust PLC,0.57
+2022-01-23 00:00:00.000,Financials,BM,Invesco Ltd.,0.51
+2022-01-23 00:00:00.000,Financials,GB,Hg Capital Trust PLC,0.51
+2022-01-23 00:00:00.000,Financials,DE,Deutsche Bank AG,0.51
+2022-01-23 00:00:00.000,Financials,GB,Allianz Technology Trust PLC,0.51
+2022-01-23 00:00:00.000,Financials,AU,Macquarie Group Ltd.,0.51
+2022-01-23 00:00:00.000,Financials,GB,Polar Capital Technology Trust PLC,0.51
+2022-01-23 00:00:00.000,Financials,IE,Permanent TSB Group Holdings PLC,0.46
+2022-01-23 00:00:00.000,Financials,CA,Bank of Nova Scotia Co.,0.46
+2022-01-23 00:00:00.000,Financials,US,MetLife Inc.,0.46
+2022-01-23 00:00:00.000,Financials,US,Federal National Mortgage Association Co.,0.40
+2022-01-23 00:00:00.000,Financials,KY,Galaxy Digital Holdings Ltd.,0.40
+2022-01-23 00:00:00.000,Financials,US,Pivotal Research Group LLC,0.40
+2022-01-23 00:00:00.000,Financials,US,Banner Corp.,0.11
+2022-01-23 00:00:00.000,Financials,US,NerdWallet Inc.,0.40
+2022-01-23 00:00:00.000,Financials,CA,Bank of Montreal Inc.,0.34
+2022-01-23 00:00:00.000,Financials,US,HSBC Holdings PLC,0.34
+2022-01-23 00:00:00.000,Financials,US,KeyCorp.,0.29
+2022-01-23 00:00:00.000,Financials,US,BidFair USA LLC,0.29
+2022-01-23 00:00:00.000,Financials,GB,Lloyds Banking Group PLC,0.29
+2022-01-23 00:00:00.000,Financials,AU,Westpac Banking Corp.,0.29
+2022-01-23 00:00:00.000,Financials,GB,Schroders PLC,0.29
+2022-01-23 00:00:00.000,Financials,IN,ICICI Securities Ltd.,0.29
+2022-01-23 00:00:00.000,Financials,JP,Onex Corp.,0.29
+2022-01-23 00:00:00.000,Financials,MY,CIMB Group Holdings Bhd,0.23
+2022-01-23 00:00:00.000,Financials,US,Lordstown Motors Corp.,0.23
+2022-01-23 00:00:00.000,Financials,US,UWM Holdings Corp.,0.23
+2022-01-23 00:00:00.000,Financials,US,Bespoke Investment Group LLC,0.23
+2022-01-23 00:00:00.000,Financials,RU,Russian Direct Investment Fund,0.23
+2022-01-23 00:00:00.000,Financials,NG,Dangote Group,0.23
+2022-01-23 00:00:00.000,Financials,US,Jefferies LLC,0.23
+2022-01-23 00:00:00.000,Financials,FR,BNP Paribas S.A.,0.23
+2022-01-23 00:00:00.000,Financials,US,Mastercard Inc.,0.23
+2022-01-23 00:00:00.000,Financials,JP,Mizuho Financial Group Inc.,0.23
+2022-01-23 00:00:00.000,Financials,CA,Newsfile Corp.,0.23
+2022-01-23 00:00:00.000,Financials,US,AH Capital Management LLC,0.23
+2022-01-23 00:00:00.000,Financials,TH,Kasikornbank PCL,0.23
+2022-01-23 00:00:00.000,Financials,GB,Greensill Capital (UK) Ltd.,0.23
+2022-01-23 00:00:00.000,Financials,US,Comerica Inc.,0.23
+2022-01-23 00:00:00.000,Financials,US,Visa Inc.,0.23
+2022-01-23 00:00:00.000,Financials,US,Center For Financial Research And Analysis LLC,0.23
+2022-01-23 00:00:00.000,Financials,US,B. Riley & Co. LLC,0.23
+2022-01-23 00:00:00.000,Financials,GR,Marfin Investment Group Holdings S.A.,0.23
+2022-01-23 00:00:00.000,Financials,IN,HDFC Bank Ltd.,0.23
+2022-01-23 00:00:00.000,Financials,US,Aon PLC,0.23
+2022-01-23 00:00:00.000,Financials,US,Evercore Inc.,0.23
+2022-01-23 00:00:00.000,Financials,US,M&T Bank Corp.,0.23
+2022-01-23 00:00:00.000,Financials,IN,Federal Bank Ltd.,0.23
+2022-01-23 00:00:00.000,Financials,US,Susquehanna Financial Group LLLP,0.23
+2022-01-23 00:00:00.000,Financials,US,Tigress Financial Partners LLC,0.23
+2022-01-23 00:00:00.000,Financials,FR,AXA S.A.,0.23
+2022-01-23 00:00:00.000,Financials,US,NatWest Group PLC,0.17
+2022-01-23 00:00:00.000,Financials,TH,Krung Thai Bank PCL,0.17
+2022-01-23 00:00:00.000,Financials,US,CoreLogic Inc.,0.17
+2022-01-23 00:00:00.000,Financials,US,Ally Financial Inc.,0.17
+2022-01-23 00:00:00.000,Financials,CN,China Merchants Securities Co. Ltd.,0.17
+2022-01-23 00:00:00.000,Financials,AU,Commonwealth Bank of Australia,0.17
+2022-01-23 00:00:00.000,Financials,GB,Permira Holdings Ltd.,0.17
+2022-01-23 00:00:00.000,Financials,US,Zions Bancorporation N.A.,0.17
+2022-01-23 00:00:00.000,Financials,US,TRT Holdings Inc.,0.17
+2022-01-23 00:00:00.000,Financials,CN,China International Capital Corp. Ltd.,0.17
+2022-01-23 00:00:00.000,Financials,IN,Kotak Mahindra Bank Ltd.,0.17
+2022-01-23 00:00:00.000,Financials,TH,Siam Commercial Bank PCL,0.17
+2022-01-23 00:00:00.000,Financials,US,D.A. Davidson & Co.,0.17
+2022-01-23 00:00:00.000,Financials,US,Spruce Point Capital Management LLC,0.17
+2022-01-23 00:00:00.000,Financials,US,PGI Energy Inc.,0.17
+2022-01-23 00:00:00.000,Financials,TH,Bangkok Bank PCL,0.17
+2022-01-23 00:00:00.000,Financials,US,Ambac Financial Group Inc.,0.17
+2022-01-23 00:00:00.000,Financials,US,Robinhood Markets Inc.,0.17
+2022-01-23 00:00:00.000,Financials,US,Blackstone Inc.,0.17
+2022-01-23 00:00:00.000,Financials,CN,CITIC Securities Co. Ltd.,0.17
+2022-01-23 00:00:00.000,Financials,MY,1Malaysia Development Bhd,0.17
+2022-01-23 00:00:00.000,Financials,EG,Naeem Holding Co.,0.17
+2022-01-23 00:00:00.000,Financials,IN,Max Ventures and Industries Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,US,SVB Financial Group Co.,0.17
+2022-01-23 00:00:00.000,Financials,MY,Malayan Banking Bhd,0.17
+2022-01-23 00:00:00.000,Financials,US,BancFirst Corp.,0.11
+2022-01-23 00:00:00.000,Financials,US,Wedbush Securities Inc.,0.11
+2022-01-23 00:00:00.000,Financials,US,Bank OZK,0.11
+2022-01-23 00:00:00.000,Financials,US,Pershing Square Capital Management L.P.,0.11
+2022-01-23 00:00:00.000,Financials,IN,Canara Bank,0.11
+2022-01-23 00:00:00.000,Financials,US,Citadel Enterprise Americas LLC,0.11
+2022-01-23 00:00:00.000,Financials,KY,Oversea-Chinese Banking Corp. Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,MY,Khazanah Nasional Bhd.,0.11
+2022-01-23 00:00:00.000,Financials,GB,Trading 212 UK Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,US,S&P Dow Jones Indices LLC,0.11
+2022-01-23 00:00:00.000,Financials,PK,Habib Bank Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,US,Erie Indemnity Co.,0.11
+2022-01-23 00:00:00.000,Financials,GB,Hargreaves Lansdown PLC,0.11
+2022-01-23 00:00:00.000,Financials,US,Navient Corp.,0.11
+2022-01-23 00:00:00.000,Financials,TH,Bank of Ayudhya PCL,0.11
+2022-01-23 00:00:00.000,Financials,JP,Sumitomo Mitsui Financial Group Inc.,0.11
+2022-01-23 00:00:00.000,Financials,ZA,Old Mutual Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,SE,Swedbank AB,0.11
+2022-01-23 00:00:00.000,Financials,CA,Paradigm Capital Inc.,0.11
+2022-01-23 00:00:00.000,Financials,US,Robert W. Baird & Co. Inc.,0.11
+2022-01-23 00:00:00.000,Financials,CA,E-L Financial Corp. Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,US,Ark Investment Management LLC,0.11
+2022-01-23 00:00:00.000,Financials,US,Wolfe HoldCo LLC,0.11
+2022-01-23 00:00:00.000,Financials,JP,T&D Holdings Inc.,0.11
+2022-01-23 00:00:00.000,Financials,AU,Whitefield Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,US,Cowen Inc.,0.11
+2022-01-23 00:00:00.000,Financials,US,Two Sigma Investments LP,0.11
+2022-01-23 00:00:00.000,Financials,IN,Adani Enterprises Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,CA,Great-West Lifeco Inc.,0.11
+2022-01-23 00:00:00.000,Financials,IN,BSE Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,GB,Aviva PLC,0.11
+2022-01-23 00:00:00.000,Financials,US,JMP Securities LLC,0.11
+2022-01-23 00:00:00.000,Financials,US,SLM Corp.,0.11
+2022-01-23 00:00:00.000,Financials,US,Western Alliance Bancorp.,0.11
+2022-01-23 00:00:00.000,Financials,AT,Raiffeisen Bank International AG,0.11
+2022-01-23 00:00:00.000,Financials,US,Bank of Ireland Group PLC,0.11
+2022-01-23 00:00:00.000,Financials,FR,Societe Generale S.A.,0.11
+2022-01-23 00:00:00.000,Financials,FR,Credit Industriel et Commercial S.A.,0.11
+2022-01-23 00:00:00.000,Financials,IN,Axis Bank Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,CA,Canadian Imperial Bank of Commerce Co.,0.11
+2022-01-23 00:00:00.000,Financials,US,AQR Capital Management Holdings LLC,0.11
+2022-01-23 00:00:00.000,Financials,ZA,Nedbank Group Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,US,The Related Companies L.P.,0.11
+2022-01-23 00:00:00.000,Financials,US,SoFi Technologies Inc.,0.11
+2022-01-23 00:00:00.000,Financials,US,AllianceBernstein Holding L.P.,0.11
+2022-01-23 00:00:00.000,Financials,GB,Lonrho Africa PLC,0.11
+2022-01-23 00:00:00.000,Financials,IN,National Stock Exchange of India Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,LU,JAB Holding Co. SARL,0.11
+2022-01-23 00:00:00.000,Financials,US,Apollo Global Management Inc.,0.11
+2022-01-23 00:00:00.000,Financials,HK,Standard Chartered PLC,0.11
+2022-01-23 00:00:00.000,Financials,PH,Union Bank of the Philippines,0.11
+2022-01-23 00:00:00.000,Financials,LU,John Keells Holdings PLC,0.11
+2022-01-23 00:00:00.000,Financials,US,777 Partners LLC,0.11
+2022-01-23 00:00:00.000,Financials,IN,State Bank of India,0.11
+2022-01-23 00:00:00.000,Financials,SG,GIC Pte. Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,GG,Pershing Square Holdings Ltd.,0.11
+2022-01-23 00:00:00.000,Financials,US,MKM Partners LLC,0.11
+2022-01-23 00:00:00.000,Financials,NL,ING Groep N.V.,0.11
+2022-01-23 00:00:00.000,Financials,US,BMI Holding Corp.,0.11
+2022-01-23 00:00:00.000,Financials,GB,Charles Stanley Group PLC,0.11
+2022-01-23 00:00:00.000,Financials,FR,Kpler SAS,0.11
+2022-01-23 00:00:00.000,Financials,TH,Ngern Tid Lor PCL,0.11
+2022-01-23 00:00:00.000,Healthcare,AU,Cochlear Ltd.,24.23
+2022-01-23 00:00:00.000,Healthcare,AU,Ellume Ltd.,12.69
+2022-01-23 00:00:00.000,Healthcare,US,Intuitive Surgical Inc.,11.92
+2022-01-23 00:00:00.000,Healthcare,US,Abbott Laboratories Inc.,10.38
+2022-01-23 00:00:00.000,Healthcare,US,Laboratory Corp. of America Holdings Co.,9.62
+2022-01-23 00:00:00.000,Healthcare,DE,Siemens AG,8.85
+2022-01-23 00:00:00.000,Healthcare,US,HCA Healthcare Inc.,2.31
+2022-01-23 00:00:00.000,Healthcare,US,Medtronic PLC,2.69
+2022-01-23 00:00:00.000,Healthcare,US,Quidel Corp.,2.31
+2022-01-23 00:00:00.000,Healthcare,US,UnitedHealth Group Inc.,1.92
+2022-01-23 00:00:00.000,Healthcare,GB,Care UK PLC,1.92
+2022-01-23 00:00:00.000,Healthcare,US,Intermountain Healthcare Inc.,1.92
+2022-01-23 00:00:00.000,Healthcare,US,Cigna Holdings Co.,1.54
+2022-01-23 00:00:00.000,Healthcare,US,Teladoc Health Inc.,1.54
+2022-01-23 00:00:00.000,Healthcare,US,SummerBio LLC,1.54
+2022-01-23 00:00:00.000,Healthcare,US,Stryker Corp.,1.54
+2022-01-23 00:00:00.000,Healthcare,DE,Koninklijke Philips N.V.,1.15
+2022-01-23 00:00:00.000,Healthcare,US,Cardinal Health Inc.,1.15
+2022-01-23 00:00:00.000,Healthcare,US,Tenet Healthcare Corp.,1.15
+2022-01-23 00:00:00.000,Healthcare,US,Indiana University Health Inc.,1.15
+2022-01-23 00:00:00.000,Healthcare,US,Advocate Aurora Health Inc.,1.15
+2022-01-23 00:00:00.000,Healthcare,US,CVS Health Corp.,1.15
+2022-01-23 00:00:00.000,Healthcare,AU,1300 Smiles Ltd.,1.15
+2022-01-23 00:00:00.000,Healthcare,US,Novant Health Inc.,1.15
+2022-01-23 00:00:00.000,Healthcare,KR,BioSpace Co. Ltd.,1.15
+2022-01-23 00:00:00.000,Healthcare,US,Psychiatric Solutions Inc.,0.77
+2022-01-23 00:00:00.000,Healthcare,CA,Extendicare Inc.,0.77
+2022-01-23 00:00:00.000,Healthcare,US,Zila Inc.,0.77
+2022-01-23 00:00:00.000,Healthcare,US,Exactech Inc.,0.77
+2022-01-23 00:00:00.000,Healthcare,JP,A&D Co. Ltd.,0.77
+2022-01-23 00:00:00.000,Healthcare,US,Anthem Inc.,0.77
+2022-01-23 00:00:00.000,Healthcare,IN,Apollo Hospitals Enterprise Ltd.,0.77
+2022-01-23 00:00:00.000,Healthcare,US,Diversicare Healthcare Services Inc.,0.77
+2022-01-23 00:00:00.000,Healthcare,US,Bio-Rad Laboratories Inc.,0.77
+2022-01-23 00:00:00.000,Healthcare,GB,Smith & Nephew PLC,0.77
+2022-01-23 00:00:00.000,Healthcare,US,Centene Corp.,0.77
+2022-01-23 00:00:00.000,Healthcare,US,Tower Health Inc.,0.77
+2022-01-23 00:00:00.000,Healthcare,US,Humana Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,DK,3Shape A/S,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Erchonia Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Yale New Haven Health Services Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,ICU Medical Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Tivity Health Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,GB,London Medical Laboratory Ltd.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Align Technology Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,IL,Lumenis Ltd.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Dentsply Sirona Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Natus Medical Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,CryoLife Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Griffin Laboratories Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Spectrum Laboratories Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Hinge Health Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,AU,Ansell Ltd.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Theranos Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Biolase Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,DE,Draegerwerk AG & Co. KGaA,0.38
+2022-01-23 00:00:00.000,Healthcare,US,WELL Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Zimmer Biomet Holdings Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Neuralink Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Beckman Coulter Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Allied Healthcare Products Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Owens & Minor Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Becton Dickinson & Co.,0.38
+2022-01-23 00:00:00.000,Healthcare,GB,Totally PLC,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Luminex Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Bruker Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,JP,Topcon Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Colfax Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Iridex Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,KY,Clover Health Investments Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,FR,Selenium Medical SAS,0.38
+2022-01-23 00:00:00.000,Healthcare,DE,B. Braun Holding GmbH & Co. KG,0.38
+2022-01-23 00:00:00.000,Healthcare,US,EssilorLuxottica SA,0.38
+2022-01-23 00:00:00.000,Healthcare,AU,Ellex Medical Lasers Ltd.,0.38
+2022-01-23 00:00:00.000,Healthcare,GB,CMR Surgical Ltd.,0.38
+2022-01-23 00:00:00.000,Healthcare,JP,Hoya Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,JP,Kawamoto Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Boston Scientific Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Koning Corp.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,Neurosky Inc.,0.38
+2022-01-23 00:00:00.000,Healthcare,IN,Trivitron Healthcare Pvt Ltd.,0.38
+2022-01-23 00:00:00.000,Healthcare,US,CONMED Corp.,0.38
+2022-01-23 00:00:00.000,Oil & Gas,RU,Gazprom PJSC,15.83
+2022-01-23 00:00:00.000,Oil & Gas,US,Chevron Corp.,8.33
+2022-01-23 00:00:00.000,Oil & Gas,IN,Reliance Industries Ltd.,5.83
+2022-01-23 00:00:00.000,Oil & Gas,IN,Bharat Petroleum Corp. Ltd.,6.67
+2022-01-23 00:00:00.000,Oil & Gas,US,Exxon Mobil Corp.,6.67
+2022-01-23 00:00:00.000,Oil & Gas,AN,Schlumberger NV,5.00
+2022-01-23 00:00:00.000,Oil & Gas,US,Royal Dutch Shell PLC,5.00
+2022-01-23 00:00:00.000,Oil & Gas,US,Baker Hughes Co.,3.33
+2022-01-23 00:00:00.000,Oil & Gas,US,Cummins Inc.,3.33
+2022-01-23 00:00:00.000,Oil & Gas,US,Devon Energy Corp.,3.33
+2022-01-23 00:00:00.000,Oil & Gas,ES,Siemens Gamesa Renewable Energy S.A.,3.33
+2022-01-23 00:00:00.000,Oil & Gas,IN,RP-Sanjiv Goenka Group Pvt. Ltd.,3.33
+2022-01-23 00:00:00.000,Oil & Gas,GB,John Wood Group PLC,2.50
+2022-01-23 00:00:00.000,Oil & Gas,GB,BP PLC,2.50
+2022-01-23 00:00:00.000,Oil & Gas,CA,Enbridge Inc.,2.50
+2022-01-23 00:00:00.000,Oil & Gas,MX,Pemex,2.50
+2022-01-23 00:00:00.000,Oil & Gas,CH,Nord Stream AG,2.50
+2022-01-23 00:00:00.000,Oil & Gas,US,APA Corp.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,TH,PTT Exploration & Production PCL,1.67
+2022-01-23 00:00:00.000,Oil & Gas,IN,Hindustan Petroleum Corp. Ltd.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,IN,Indian Oil Corp. Ltd.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,US,SunPower Corp.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,SA,Saudi Arabian Oil Co.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,US,Colonial Pipeline Co.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,US,Koch Industries Inc.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,CA,Pembina Pipeline Corp.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,US,Occidental Petroleum Corp.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,US,SolarWindow Technologies Inc.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,MX,TotalEnergies SE,1.67
+2022-01-23 00:00:00.000,Oil & Gas,US,Williams Companies Inc.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,MX,ConocoPhillips Co.,1.67
+2022-01-23 00:00:00.000,Oil & Gas,IN,Jain Irrigation Systems Ltd.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,NO,DNO ASA,0.83
+2022-01-23 00:00:00.000,Oil & Gas,DE,Siemens Energy AG,0.83
+2022-01-23 00:00:00.000,Oil & Gas,PK,Pakistan State Oil Co. Ltd.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,American Superconductor Corp.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,SandRidge Energy Inc.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,NO,Equinor ASA,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,Keppel Corp. Ltd.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,KY,Fortune Solar Holdings Ltd.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,NG,Oando PLC,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,Plug Power Inc.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,CITGO Petroleum Corp.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,CN,BYD Co. Ltd.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,Marathon Oil Corp.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,Murphy Oil Corp.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,IN,Oil & Natural Gas Corp. Ltd.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,EOG Resources Inc.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,ES,Compañía Española de Petróleos S.A.U.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,NO,Norsk Hydro ASA,0.83
+2022-01-23 00:00:00.000,Oil & Gas,KR,SK Innovation Co. Ltd.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,Hilcorp Energy Co.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,CA,Petrowest Corp.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,CA,Anterra Energy Inc.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,Liberty Oilfield Services Inc.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,MY,Petroliam Nasional Bhd,0.83
+2022-01-23 00:00:00.000,Oil & Gas,IN,Vedanta Ltd.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,US,CNX Resources Corp.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,SE,Azelio AB,0.83
+2022-01-23 00:00:00.000,Oil & Gas,FR,Veolia Environnement S.A.,0.83
+2022-01-23 00:00:00.000,Oil & Gas,GB,ITM Power PLC,0.83
+2022-01-23 00:00:00.000,Personal Goods,GB,British American Tobacco PLC,29.83
+2022-01-23 00:00:00.000,Personal Goods,GB,FanDuel Inc.,15.82
+2022-01-23 00:00:00.000,Personal Goods,DK,Lego A/S,10.17
+2022-01-23 00:00:00.000,Personal Goods,CA,Built By Snowman Inc.,9.94
+2022-01-23 00:00:00.000,Personal Goods,DE,Loewe AG,9.15
+2022-01-23 00:00:00.000,Personal Goods,MX,Samsung Electronics Co. Ltd.,4.41
+2022-01-23 00:00:00.000,Personal Goods,CH,IQAir AG,3.50
+2022-01-23 00:00:00.000,Personal Goods,US,Procter & Gamble Co.,1.81
+2022-01-23 00:00:00.000,Personal Goods,FR,LVMH Moet Hennessy Louis Vuitton SE,2.49
+2022-01-23 00:00:00.000,Personal Goods,US,Activision Blizzard Inc.,1.81
+2022-01-23 00:00:00.000,Personal Goods,JP,Sony Group Corp.,2.03
+2022-01-23 00:00:00.000,Personal Goods,US,NIKE Inc.,2.03
+2022-01-23 00:00:00.000,Personal Goods,US,The Clorox Co.,1.36
+2022-01-23 00:00:00.000,Personal Goods,US,Roblox Corp.,1.36
+2022-01-23 00:00:00.000,Personal Goods,FR,L'Oreal S.A.,1.36
+2022-01-23 00:00:00.000,Personal Goods,US,Coty Inc.,1.36
+2022-01-23 00:00:00.000,Personal Goods,US,Estee Lauder Cos. Inc.,1.24
+2022-01-23 00:00:00.000,Personal Goods,US,Revlon Inc.,1.24
+2022-01-23 00:00:00.000,Personal Goods,GB,Imperial Brands PLC,1.02
+2022-01-23 00:00:00.000,Personal Goods,IN,Reliance Industries Ltd.,0.79
+2022-01-23 00:00:00.000,Personal Goods,US,Weber-Stephen Products LLC,0.90
+2022-01-23 00:00:00.000,Personal Goods,US,Nintendo Co. Ltd.,0.90
+2022-01-23 00:00:00.000,Personal Goods,US,iRobot Corp.,0.79
+2022-01-23 00:00:00.000,Personal Goods,FR,Christian Dior SE,0.79
+2022-01-23 00:00:00.000,Personal Goods,US,Colgate-Palmolive Co.,0.79
+2022-01-23 00:00:00.000,Personal Goods,US,Under Armour Inc.,0.56
+2022-01-23 00:00:00.000,Personal Goods,AU,McPherson's Ltd.,0.56
+2022-01-23 00:00:00.000,Personal Goods,DE,Adidas AG,0.56
+2022-01-23 00:00:00.000,Personal Goods,US,KIT Manufacturing Co.,0.56
+2022-01-23 00:00:00.000,Personal Goods,CN,Hisense Company Ltd.,0.56
+2022-01-23 00:00:00.000,Personal Goods,US,Vizio Inc.,0.56
+2022-01-23 00:00:00.000,Personal Goods,DE,Hugo Boss AG,0.56
+2022-01-23 00:00:00.000,Personal Goods,JP,Panasonic Corp.,0.56
+2022-01-23 00:00:00.000,Personal Goods,US,Ralph Lauren Corp.,0.56
+2022-01-23 00:00:00.000,Personal Goods,HK,Smartco International Ltd.,0.56
+2022-01-23 00:00:00.000,Personal Goods,US,Altria Group Inc.,0.45
+2022-01-23 00:00:00.000,Personal Goods,IN,Hindustan Unilever Ltd.,0.45
+2022-01-23 00:00:00.000,Personal Goods,JP,Mizuno Corp.,0.45
+2022-01-23 00:00:00.000,Personal Goods,US,The Oneida Group,0.45
+2022-01-23 00:00:00.000,Personal Goods,US,Co-Signer Inc.,0.45
+2022-01-23 00:00:00.000,Personal Goods,TW,Hon Hai Precision Industry Co. Ltd.,0.45
+2022-01-23 00:00:00.000,Personal Goods,IN,Marico Ltd.,0.45
+2022-01-23 00:00:00.000,Personal Goods,DE,Koninklijke Philips N.V.,0.34
+2022-01-23 00:00:00.000,Personal Goods,US,Kimberly-Clark Corp.,0.34
+2022-01-23 00:00:00.000,Personal Goods,GB,Burberry Group PLC,0.34
+2022-01-23 00:00:00.000,Personal Goods,BR,Natura & Co. Holding S.A.,0.34
+2022-01-23 00:00:00.000,Personal Goods,IN,Vardhman Textiles Ltd.,0.23
+2022-01-23 00:00:00.000,Personal Goods,JP,Shiseido Co. Ltd.,0.34
+2022-01-23 00:00:00.000,Personal Goods,FR,Balenciaga SA,0.34
+2022-01-23 00:00:00.000,Personal Goods,FR,Ubisoft Entertainment S.A.,0.23
+2022-01-23 00:00:00.000,Personal Goods,US,Winnebago Industries Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Valve Corp.,0.23
+2022-01-23 00:00:00.000,Personal Goods,CA,Dapper Labs Inc.,0.23
+2022-01-23 00:00:00.000,Personal Goods,FR,Chanel SAS,0.23
+2022-01-23 00:00:00.000,Personal Goods,US,Premier Brands Group Holdings LLC,0.23
+2022-01-23 00:00:00.000,Personal Goods,US,Columbia Sportswear Co.,0.23
+2022-01-23 00:00:00.000,Personal Goods,IT,Prada S.p.A.,0.23
+2022-01-23 00:00:00.000,Personal Goods,KR,Krafton Inc.,0.23
+2022-01-23 00:00:00.000,Personal Goods,US,Lululemon Athletica Inc.,0.23
+2022-01-23 00:00:00.000,Personal Goods,IN,Visaka Industries Ltd.,0.23
+2022-01-23 00:00:00.000,Personal Goods,US,Tapestry Inc.,0.23
+2022-01-23 00:00:00.000,Personal Goods,IN,Sangam (India) Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,KR,LG Electronics Inc.,0.23
+2022-01-23 00:00:00.000,Personal Goods,US,Electronic Arts Inc.,0.23
+2022-01-23 00:00:00.000,Personal Goods,JP,Onward Holdings Co. Ltd.,0.23
+2022-01-23 00:00:00.000,Personal Goods,US,Kimball International Inc.,0.23
+2022-01-23 00:00:00.000,Personal Goods,DE,Stihl International GmbH,0.11
+2022-01-23 00:00:00.000,Personal Goods,CA,HEXO Corp.,0.11
+2022-01-23 00:00:00.000,Personal Goods,CN,UBTECH Robotics Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Crocs Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,SE,Paradox Interactive AB,0.11
+2022-01-23 00:00:00.000,Personal Goods,GB,Creightons PLC,0.11
+2022-01-23 00:00:00.000,Personal Goods,TW,Les Enphants Co. Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Spectrum Brands Holdings Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,JP,ASICS Corp.,0.11
+2022-01-23 00:00:00.000,Personal Goods,GB,Unilever PLC,0.11
+2022-01-23 00:00:00.000,Personal Goods,JP,Toray Industries Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,IT,Vincenzo Zucchi S.p.A.,0.11
+2022-01-23 00:00:00.000,Personal Goods,JP,KOSE Corp.,0.11
+2022-01-23 00:00:00.000,Personal Goods,IN,Voltbek Home Appliances Pvt. Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Cole Haan LLC,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Alpha Pro Tech Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,JUUL Labs Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,GB,McBride PLC,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Vista Outdoor Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,KR,AmorePacific Group Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,GB,Persimmon PLC,0.11
+2022-01-23 00:00:00.000,Personal Goods,GR,Yalco-Constantinou S.A.,0.11
+2022-01-23 00:00:00.000,Personal Goods,JP,Bandai Namco Holdings Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,CA,Cronos Group Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,DE,Henkel AG & Co. KGaA,0.11
+2022-01-23 00:00:00.000,Personal Goods,CN,Pico Interactive Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,TR,Arcelik A.S.,0.11
+2022-01-23 00:00:00.000,Personal Goods,KY,Embry Holdings Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Jore Corp.,0.11
+2022-01-23 00:00:00.000,Personal Goods,SE,Oriflame Holding AG,0.11
+2022-01-23 00:00:00.000,Personal Goods,AU,Lighting Corp. Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,JP,Onkyo Corp.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Polaris Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,MY,Padini Holdings Bhd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,KR,DM Technology Co. Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Jibo Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,CA,LYMI Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,DE,Beiersdorf AG,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Tempur Sealy International Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,KKW Beauty Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Newell Brands Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,KY,Kingsoft Corp. Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,IN,Colgate-Palmolive (India) Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Dakotah Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,CH,Garmin Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Thor Industries Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,CA,Mene Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Mary Kay Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,IN,Aditya Birla Management Corporation Pvt. Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,FR,Clarins S.A.,0.11
+2022-01-23 00:00:00.000,Personal Goods,JP,Japan Vilene Co. Ltd.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Mattel Inc.,0.11
+2022-01-23 00:00:00.000,Personal Goods,US,Estee Lauder Inc.,0.11
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Pfizer Inc.,72.85
+2022-01-23 00:00:00.000,Pharmaceuticals,MX,Johnson & Johnson Co.,22.09
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Moderna Inc.,19.48
+2022-01-23 00:00:00.000,Pharmaceuticals,AG,Sinovac Biotech Ltd.,17.60
+2022-01-23 00:00:00.000,Pharmaceuticals,DE,BioNTech SE,16.65
+2022-01-23 00:00:00.000,Pharmaceuticals,CN,Sinopharm Group Co. Ltd.,14.99
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Gilead Sciences Inc.,7.10
+2022-01-23 00:00:00.000,Pharmaceuticals,GB,AstraZeneca PLC,6.08
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Merck & Co. Inc.,3.91
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Novavax Inc.,2.03
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Abbott Laboratories Inc.,1.96
+2022-01-23 00:00:00.000,Pharmaceuticals,CH,Roche Holding AG,1.67
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Iovance Biotherapeutics Inc.,1.67
+2022-01-23 00:00:00.000,Pharmaceuticals,GB,GlaxoSmithKline PLC,1.67
+2022-01-23 00:00:00.000,Pharmaceuticals,US,TG Therapeutics Inc.,1.59
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Invitae Corp.,1.59
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Regeneron Pharmaceuticals Inc.,1.16
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Vir Biotechnology Inc.,1.09
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Fulgent Genetics Inc.,1.09
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Eli Lilly & Co.,1.01
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Talis Biomedical Corp.,0.36
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Ridgeback Biotherapeutics LP,0.80
+2022-01-23 00:00:00.000,Pharmaceuticals,IN,Wockhardt Ltd.,0.65
+2022-01-23 00:00:00.000,Pharmaceuticals,US,AbbVie Inc.,0.51
+2022-01-23 00:00:00.000,Pharmaceuticals,US,OPKO Health Inc.,0.22
+2022-01-23 00:00:00.000,Pharmaceuticals,US,IQVIA Holdings Inc.,0.36
+2022-01-23 00:00:00.000,Pharmaceuticals,CH,Novartis AG,0.36
+2022-01-23 00:00:00.000,Pharmaceuticals,DE,Boehringer Ingelheim GmbH,0.36
+2022-01-23 00:00:00.000,Pharmaceuticals,DE,Bayer AG,0.36
+2022-01-23 00:00:00.000,Pharmaceuticals,FR,Sanofi S.A.,0.36
+2022-01-23 00:00:00.000,Pharmaceuticals,IN,Bharat Biotech International Ltd.,0.29
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Sorrento Therapeutics Inc.,0.22
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Ultragenyx Pharmaceutical Inc.,0.29
+2022-01-23 00:00:00.000,Pharmaceuticals,JP,Takeda Pharmaceutical Co. Ltd.,0.29
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Beam Therapeutics Inc.,0.29
+2022-01-23 00:00:00.000,Pharmaceuticals,FR,Ipsen S.A.,0.22
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Mount Sinai Genomics Inc.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,IN,Natco Pharma Ltd.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,AU,Amplia Therapeutics Ltd.,0.22
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Cardinal Health Inc.,0.22
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Arcturus Therapeutics Holdings Inc.,0.22
+2022-01-23 00:00:00.000,Pharmaceuticals,MX,Amgen Inc.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Bristol-Myers Squibb Co.,0.22
+2022-01-23 00:00:00.000,Pharmaceuticals,IN,Serum Institute of India Pvt. Ltd.,0.22
+2022-01-23 00:00:00.000,Pharmaceuticals,NL,CureVac N.V.,0.22
+2022-01-23 00:00:00.000,Pharmaceuticals,IN,Micro Labs Ltd.,0.22
+2022-01-23 00:00:00.000,Pharmaceuticals,IN,Mankind Pharma Ltd.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,FR,Valneva SE,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Leap Therapeutics Inc.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Terns Pharmaceuticals Inc.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,AU,Abbott Rapid Diagnostics Pty. Ltd.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Acceleron Pharma Inc.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,US,23andMe Inc.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,CN,BrightGene Bio-Medical Technology Co. Ltd.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,IE,Horizon Therapeutics PLC,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Thermo Fisher Scientific Inc.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,AU,Australian Pharmaceutical Industries Ltd.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,JP,Chugai Pharmaceutical Co. Ltd.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Charles River Laboratories International Inc.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Ocugen Inc.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,JP,Kyowa Kirin Co. Ltd.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,FR,Genfit SA,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,US,Biogen Inc.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,DE,Merck KGaA,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,DK,Novo Nordisk A/S,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,GB,Digital Science & Research Solutions Ltd.,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,FR,Genoscience Pharma SAS,0.14
+2022-01-23 00:00:00.000,Pharmaceuticals,JP,Shionogi & Co. Ltd.,0.14
+2022-01-23 00:00:00.000,Retail,US,Amazon.com Inc.,26.50
+2022-01-23 00:00:00.000,Retail,US,Netflix Inc.,19.46
+2022-01-23 00:00:00.000,Retail,US,Walmart Inc.,16.36
+2022-01-23 00:00:00.000,Retail,US,Walgreens Boots Alliance Inc.,6.63
+2022-01-23 00:00:00.000,Retail,US,Coursera Inc.,6.31
+2022-01-23 00:00:00.000,Retail,US,Fred's Inc.,4.24
+2022-01-23 00:00:00.000,Retail,US,Uber Technologies Inc.,3.42
+2022-01-23 00:00:00.000,Retail,US,Sears Holdings Corp.,3.31
+2022-01-23 00:00:00.000,Retail,US,American Trucking Associations Inc.,3.00
+2022-01-23 00:00:00.000,Retail,KY,Alibaba Group Holding Ltd.,2.80
+2022-01-23 00:00:00.000,Retail,US,Kroger Co.,2.69
+2022-01-23 00:00:00.000,Retail,US,Lowe's Cos. Inc.,0.83
+2022-01-23 00:00:00.000,Retail,US,PayPal Holdings Inc.,1.55
+2022-01-23 00:00:00.000,Retail,US,Costco Wholesale Corp.,1.55
+2022-01-23 00:00:00.000,Retail,US,Macy's Inc.,1.24
+2022-01-23 00:00:00.000,Retail,US,eBay Inc.,1.14
+2022-01-23 00:00:00.000,Retail,US,Etsy Inc.,1.14
+2022-01-23 00:00:00.000,Retail,US,Rakuten Group Inc.,1.04
+2022-01-23 00:00:00.000,Retail,NL,Ingka Holding B.V.,1.04
+2022-01-23 00:00:00.000,Retail,US,Lyft Inc.,0.83
+2022-01-23 00:00:00.000,Retail,GB,Ocado Group PLC,0.83
+2022-01-23 00:00:00.000,Retail,FR,Kering S.A.,0.83
+2022-01-23 00:00:00.000,Retail,US,Kohl's Corp.,0.52
+2022-01-23 00:00:00.000,Retail,US,Patreon Inc.,0.72
+2022-01-23 00:00:00.000,Retail,US,The Home Depot Inc.,0.72
+2022-01-23 00:00:00.000,Retail,US,Rite Aid Corp.,0.72
+2022-01-23 00:00:00.000,Retail,US,Albertsons Companies Inc.,0.62
+2022-01-23 00:00:00.000,Retail,US,Bath & Body Works Inc.,0.62
+2022-01-23 00:00:00.000,Retail,US,Maplebear Inc.,0.62
+2022-01-23 00:00:00.000,Retail,DE,ALDI Einkauf GmbH & Co. oHG,0.62
+2022-01-23 00:00:00.000,Retail,MY,Boustead Holdings Bhd,0.62
+2022-01-23 00:00:00.000,Retail,US,GameStop Corp.,0.62
+2022-01-23 00:00:00.000,Retail,US,Pilot Co.,0.52
+2022-01-23 00:00:00.000,Retail,GB,Beale PLC,0.52
+2022-01-23 00:00:00.000,Retail,US,Publix Super Markets Inc.,0.52
+2022-01-23 00:00:00.000,Retail,US,Nordstrom Inc.,0.52
+2022-01-23 00:00:00.000,Retail,US,McKesson Corp.,0.52
+2022-01-23 00:00:00.000,Retail,US,Ralph Lauren Corp.,0.52
+2022-01-23 00:00:00.000,Retail,SG,Flipkart Pvt. Ltd.,0.52
+2022-01-23 00:00:00.000,Retail,US,Target Corp.,0.52
+2022-01-23 00:00:00.000,Retail,US,Tractor Supply Co.,0.31
+2022-01-23 00:00:00.000,Retail,DE,Delivery Hero SE,0.41
+2022-01-23 00:00:00.000,Retail,US,HEB Grocery Co. LP,0.41
+2022-01-23 00:00:00.000,Retail,JP,Ozeki Co. Ltd.,0.41
+2022-01-23 00:00:00.000,Retail,US,Seven & I Holdings Co. Ltd.,0.41
+2022-01-23 00:00:00.000,Retail,IN,RP-Sanjiv Goenka Group Pvt. Ltd.,0.41
+2022-01-23 00:00:00.000,Retail,US,Craigslist Inc.,0.41
+2022-01-23 00:00:00.000,Retail,US,Wal-Mart de Mexico S.A.B. de C.V.,0.41
+2022-01-23 00:00:00.000,Retail,US,GrubHub Inc.,0.41
+2022-01-23 00:00:00.000,Retail,GB,J Sainsbury PLC,0.41
+2022-01-23 00:00:00.000,Retail,US,DoorDash Inc.,0.41
+2022-01-23 00:00:00.000,Retail,GB,Tesco PLC,0.41
+2022-01-23 00:00:00.000,Retail,US,Northeastern University Corp.,0.41
+2022-01-23 00:00:00.000,Retail,AR,Koninklijke Ahold Delhaize N.V.,0.31
+2022-01-23 00:00:00.000,Retail,JP,Takashimaya Co. Ltd.,0.31
+2022-01-23 00:00:00.000,Retail,US,J. Crew Group Inc.,0.31
+2022-01-23 00:00:00.000,Retail,US,Hy-Vee Inc.,0.31
+2022-01-23 00:00:00.000,Retail,DE,HelloFresh SE,0.31
+2022-01-23 00:00:00.000,Retail,US,CVS Health Corp.,0.31
+2022-01-23 00:00:00.000,Retail,GB,Conviviality PLC,0.31
+2022-01-23 00:00:00.000,Retail,US,Marks & Spencer Group PLC,0.31
+2022-01-23 00:00:00.000,Retail,US,The Cato Corp.,0.31
+2022-01-23 00:00:00.000,Retail,JE,Boohoo Group PLC,0.31
+2022-01-23 00:00:00.000,Retail,US,AmerisourceBergen Corp.,0.31
+2022-01-23 00:00:00.000,Retail,GB,Arcadia Group Ltd.,0.31
+2022-01-23 00:00:00.000,Retail,AU,Woolworths Group Ltd.,0.31
+2022-01-23 00:00:00.000,Retail,CA,Canadian Tire Corp. Ltd.,0.31
+2022-01-23 00:00:00.000,Retail,JP,Fast Retailing Co. Ltd.,0.31
+2022-01-23 00:00:00.000,Retail,DE,Robert Bosch GmbH,0.31
+2022-01-23 00:00:00.000,Retail,GB,CVS Group PLC,0.31
+2022-01-23 00:00:00.000,Retail,US,Chewy Inc.,0.21
+2022-01-23 00:00:00.000,Retail,IN,Zomato Ltd.,0.21
+2022-01-23 00:00:00.000,Retail,DE,Schwarz Gruppe GmbH,0.21
+2022-01-23 00:00:00.000,Retail,PL,Ruch S.A.,0.21
+2022-01-23 00:00:00.000,Retail,SG,Overseas Education Ltd.,0.21
+2022-01-23 00:00:00.000,Retail,US,TJX Companies Inc.,0.21
+2022-01-23 00:00:00.000,Retail,US,Jackson Hewitt Tax Service Inc.,0.21
+2022-01-23 00:00:00.000,Retail,US,H&R Block Inc.,0.21
+2022-01-23 00:00:00.000,Retail,JP,FamilyMart Co. Ltd.,0.21
+2022-01-23 00:00:00.000,Retail,GB,Checkout Ltd.,0.21
+2022-01-23 00:00:00.000,Retail,AU,Coles Group Ltd.,0.21
+2022-01-23 00:00:00.000,Retail,US,Vitamin Shoppe Inc.,0.21
+2022-01-23 00:00:00.000,Retail,US,Petco,0.21
+2022-01-23 00:00:00.000,Retail,US,GoodRx Inc.,0.21
+2022-01-23 00:00:00.000,Retail,IN,Think & Learn Pvt Ltd.,0.21
+2022-01-23 00:00:00.000,Retail,ZA,Steinhoff International Holdings N.V.,0.21
+2022-01-23 00:00:00.000,Retail,IN,Jabong.com,0.21
+2022-01-23 00:00:00.000,Retail,AU,Australian Pharmaceutical Industries Ltd.,0.21
+2022-01-23 00:00:00.000,Retail,ZA,Foschini Group Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,US,Penney OpCo LLC,0.21
+2022-01-23 00:00:00.000,Retail,MX,CarMax Inc.,0.21
+2022-01-23 00:00:00.000,Retail,US,Dick's Sporting Goods Inc.,0.21
+2022-01-23 00:00:00.000,Retail,US,PetSmart Inc.,0.21
+2022-01-23 00:00:00.000,Retail,US,GMS Inc.,0.21
+2022-01-23 00:00:00.000,Retail,US,Alex Lee Inc.,0.21
+2022-01-23 00:00:00.000,Retail,IN,BrainBees Solutions Pvt Ltd.,0.21
+2022-01-23 00:00:00.000,Retail,US,Kuhlman Co. Inc.,0.21
+2022-01-23 00:00:00.000,Retail,GB,JE Beale PLC,0.21
+2022-01-23 00:00:00.000,Retail,GB,WorldRemit Ltd.,0.21
+2022-01-23 00:00:00.000,Retail,US,Wayfair Inc.,0.21
+2022-01-23 00:00:00.000,Retail,FR,Carrefour S.A.,0.21
+2022-01-23 00:00:00.000,Retail,CA,Alimentation Couche-Tard Inc.,0.21
+2022-01-23 00:00:00.000,Retail,US,Franchise Group Inc.,0.10
+2022-01-23 00:00:00.000,Retail,NL,Just Eat Takeaway.com N.V.,0.10
+2022-01-23 00:00:00.000,Retail,GB,Deliveroo PLC,0.10
+2022-01-23 00:00:00.000,Retail,ES,El Corte Inglés S.A.,0.10
+2022-01-23 00:00:00.000,Retail,AU,Harvey Norman Holdings Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,GB,Selfridges & Co. Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,US,Dollar Tree Inc.,0.10
+2022-01-23 00:00:00.000,Retail,ES,Industria de Diseno Textil S.A.,0.10
+2022-01-23 00:00:00.000,Retail,US,Amerco Inc.,0.10
+2022-01-23 00:00:00.000,Retail,US,JD.com Inc.,0.10
+2022-01-23 00:00:00.000,Retail,FR,Rallye S.A.,0.10
+2022-01-23 00:00:00.000,Retail,KY,Meituan Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,US,Alloy Inc.,0.10
+2022-01-23 00:00:00.000,Retail,US,Helbiz Holdings Inc.,0.10
+2022-01-23 00:00:00.000,Retail,TH,Counter Service Co. Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,US,Asbury Automotive Group Inc.,0.10
+2022-01-23 00:00:00.000,Retail,NG,Paystack Payments Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,AU,InvoCare Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,ID,PT Bukalapak.com Tbk,0.10
+2022-01-23 00:00:00.000,Retail,EE,Taxify OÜ,0.10
+2022-01-23 00:00:00.000,Retail,GB,Development Alternatives Inc.,0.10
+2022-01-23 00:00:00.000,Retail,US,Claire's Stores Inc.,0.10
+2022-01-23 00:00:00.000,Retail,US,Brookshire Grocery Co.,0.10
+2022-01-23 00:00:00.000,Retail,DE,REWE Group GmbH,0.10
+2022-01-23 00:00:00.000,Retail,US,OpenTable Inc.,0.10
+2022-01-23 00:00:00.000,Retail,SG,GrabTaxi Holdings Pte Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,AU,Navitas Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,US,Stater Bros. Markets Inc.,0.10
+2022-01-23 00:00:00.000,Retail,US,Wegmans Food Markets Inc.,0.10
+2022-01-23 00:00:00.000,Retail,US,Education Holdings 1 Inc.,0.10
+2022-01-23 00:00:00.000,Retail,IN,Lenskart Solutions Pvt. Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,NL,Super de Boer N.V.,0.10
+2022-01-23 00:00:00.000,Retail,GB,Motorpoint Group PLC,0.10
+2022-01-23 00:00:00.000,Retail,AU,Wesfarmers Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,PH,Wilcon Depot Inc.,0.10
+2022-01-23 00:00:00.000,Retail,CA,Hudson's Bay Co.,0.10
+2022-01-23 00:00:00.000,Retail,US,Weis Markets Inc.,0.10
+2022-01-23 00:00:00.000,Retail,US,Bed Bath & Beyond Inc.,0.10
+2022-01-23 00:00:00.000,Retail,US,Sysco Corp.,0.10
+2022-01-23 00:00:00.000,Retail,US,Western Union Co.,0.10
+2022-01-23 00:00:00.000,Retail,HK,Times Co. Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,US,Carvana Co.,0.10
+2022-01-23 00:00:00.000,Retail,GB,Kingfisher PLC,0.10
+2022-01-23 00:00:00.000,Retail,JP,Kanemi Co. Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,US,Audio Visual Services Corp.,0.10
+2022-01-23 00:00:00.000,Retail,IN,Sorting Hat Technologies Pvt. Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,US,Calceus Acquisition Inc.,0.10
+2022-01-23 00:00:00.000,Retail,HK,I.T Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,AU,City Chic Collective Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,US,Tops Holding II Corp.,0.10
+2022-01-23 00:00:00.000,Retail,US,Trupanion Inc.,0.10
+2022-01-23 00:00:00.000,Retail,IN,Future Retail Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,SE,Hennes & Mauritz AB,0.10
+2022-01-23 00:00:00.000,Retail,US,QuikTrip Corp.,0.10
+2022-01-23 00:00:00.000,Retail,US,Spiegel Holdings Inc.,0.10
+2022-01-23 00:00:00.000,Retail,US,Dollar General Corp.,0.10
+2022-01-23 00:00:00.000,Retail,US,Mary Kay Inc.,0.10
+2022-01-23 00:00:00.000,Retail,US,Chegg Inc.,0.10
+2022-01-23 00:00:00.000,Retail,BM,Roust Trading Ltd.,0.10
+2022-01-23 00:00:00.000,Retail,IN,Hiveloop Technology Pvt. Ltd.,0.10
+2022-01-23 00:00:00.000,Travel & Leisure,US,National Association for Stock Car Auto Racing Inc.,29.71
+2022-01-23 00:00:00.000,Travel & Leisure,MT,Tipico Co. Ltd.,26.94
+2022-01-23 00:00:00.000,Travel & Leisure,GB,FanDuel Inc.,11.43
+2022-01-23 00:00:00.000,Travel & Leisure,US,Starbucks Corp.,10.04
+2022-01-23 00:00:00.000,Travel & Leisure,US,Peloton Interactive Inc.,3.76
+2022-01-23 00:00:00.000,Travel & Leisure,CO,McDonald's Corp.,2.04
+2022-01-23 00:00:00.000,Travel & Leisure,US,Domino's Pizza Inc.,1.80
+2022-01-23 00:00:00.000,Travel & Leisure,US,Airbnb Inc.,1.22
+2022-01-23 00:00:00.000,Travel & Leisure,US,Yum! Brands Inc.,1.31
+2022-01-23 00:00:00.000,Travel & Leisure,LU,Entain PLC,0.82
+2022-01-23 00:00:00.000,Travel & Leisure,IM,Playtech PLC,0.73
+2022-01-23 00:00:00.000,Travel & Leisure,CA,Restaurant Brands International Inc.,0.73
+2022-01-23 00:00:00.000,Travel & Leisure,AU,Aristocrat Leisure Ltd.,0.73
+2022-01-23 00:00:00.000,Travel & Leisure,US,AMC Entertainment Holdings Inc.,0.65
+2022-01-23 00:00:00.000,Travel & Leisure,US,Marriott International Inc.,0.41
+2022-01-23 00:00:00.000,Travel & Leisure,MY,Genting Malaysia Bhd,0.57
+2022-01-23 00:00:00.000,Travel & Leisure,DE,Live Nation Entertainment Inc.,0.57
+2022-01-23 00:00:00.000,Travel & Leisure,US,Inspire Brands Inc.,0.57
+2022-01-23 00:00:00.000,Travel & Leisure,MY,Genting Bhd,0.49
+2022-01-23 00:00:00.000,Travel & Leisure,PA,Carnival Corp.,0.49
+2022-01-23 00:00:00.000,Travel & Leisure,BM,Genting Hong Kong Ltd.,0.49
+2022-01-23 00:00:00.000,Travel & Leisure,US,Norwegian Cruise Line Holdings Ltd.,0.49
+2022-01-23 00:00:00.000,Travel & Leisure,US,MGM Resorts International Co.,0.49
+2022-01-23 00:00:00.000,Travel & Leisure,IN,Dream11 Fantasy Pvt. Ltd.,0.49
+2022-01-23 00:00:00.000,Travel & Leisure,IN,INox Leisure Ltd.,0.24
+2022-01-23 00:00:00.000,Travel & Leisure,US,Cinemark Holdings Inc.,0.41
+2022-01-23 00:00:00.000,Travel & Leisure,US,Papa John's International Inc.,0.41
+2022-01-23 00:00:00.000,Travel & Leisure,GB,Betfair Group PLC,0.41
+2022-01-23 00:00:00.000,Travel & Leisure,LR,Royal Caribbean Group Co.,0.33
+2022-01-23 00:00:00.000,Travel & Leisure,US,TripActions Inc.,0.33
+2022-01-23 00:00:00.000,Travel & Leisure,GB,InterContinental Hotels Group PLC,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Las Vegas Sands Corp.,0.33
+2022-01-23 00:00:00.000,Travel & Leisure,US,Planet Fitness Inc.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,TripAdvisor Inc.,0.33
+2022-01-23 00:00:00.000,Travel & Leisure,DE,CameraWork AG,0.24
+2022-01-23 00:00:00.000,Travel & Leisure,JP,Keio Corp.,0.24
+2022-01-23 00:00:00.000,Travel & Leisure,US,DraftKings Inc.,0.24
+2022-01-23 00:00:00.000,Travel & Leisure,BM,Shangri-La Asia Ltd.,0.24
+2022-01-23 00:00:00.000,Travel & Leisure,US,Darden Restaurants Inc.,0.24
+2022-01-23 00:00:00.000,Travel & Leisure,GB,Cineworld Group PLC,0.24
+2022-01-23 00:00:00.000,Travel & Leisure,MU,MakeMyTrip Ltd.,0.24
+2022-01-23 00:00:00.000,Travel & Leisure,US,SoulCycle Inc.,0.24
+2022-01-23 00:00:00.000,Travel & Leisure,US,Booking Holdings Inc.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,24 Hour Fitness Worldwide Inc.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Caribou Coffee Co. Inc.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Town Sports International Holdings Inc.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Atlas Air Worldwide Holdings Inc.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Six Flags Entertainment Corp.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Penn National Gaming Inc.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Boyd Gaming Corp.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Trump Entertainment Resorts Inc.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Sturm Ruger & Co. Inc.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,BM,Travelport Worldwide Ltd.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Hilton Worldwide Holdings Inc.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Wynn Resorts Ltd.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,NO,Strawberry Group AS,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,AU,Helloworld Travel Ltd.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,IM,Genting Singapore Ltd.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,IN,InterGlobe Enterprises Ltd.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,IN,PVR Ltd.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,US,Hyatt Hotels Corp.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,FR,AccorHotels S.A.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,GB,Alton Towers Resort Operations Ltd.,0.16
+2022-01-23 00:00:00.000,Travel & Leisure,GB,Whitbread PLC,0.16
+2022-01-23 00:00:00.000,Tech Services,US,Twitter Inc.,64.63
+2022-01-23 00:00:00.000,Tech Services,US,Meta Platforms Inc.,29.04
+2022-01-23 00:00:00.000,Tech Services,US,Alphabet Inc.,8.10
+2022-01-23 00:00:00.000,Tech Services,US,Amazon.com Inc.,4.70
+2022-01-23 00:00:00.000,Tech Services,CH,Sportradar AG,4.74
+2022-01-23 00:00:00.000,Tech Services,US,Microsoft Corp.,3.89
+2022-01-23 00:00:00.000,Tech Services,CN,Binance Holdings Ltd.,3.43
+2022-01-23 00:00:00.000,Tech Services,CN,Beijing ByteDance Technology Co. Ltd.,2.02
+2022-01-23 00:00:00.000,Tech Services,US,Oracle Corp.,1.97
+2022-01-23 00:00:00.000,Tech Services,US,International Business Machines Corp.,1.63
+2022-01-23 00:00:00.000,Tech Services,US,InterNAP Corp.,1.14
+2022-01-23 00:00:00.000,Tech Services,US,Shutterstock Inc.,0.83
+2022-01-23 00:00:00.000,Tech Services,US,Weibo Corp.,0.75
+2022-01-23 00:00:00.000,Tech Services,KY,Tencent Music Entertainment Group,0.42
+2022-01-23 00:00:00.000,Tech Services,US,Snap Inc.,0.33
+2022-01-23 00:00:00.000,Tech Services,US,Reddit Inc.,0.28
+2022-01-23 00:00:00.000,Tech Services,US,FuboTV Inc.,0.26
+2022-01-23 00:00:00.000,Tech Services,US,TheMaven Inc.,0.24
+2022-01-23 00:00:00.000,Tech Services,US,Cisco Systems Inc.,0.22
+2022-01-23 00:00:00.000,Tech Services,US,Docusign Inc.,0.22
+2022-01-23 00:00:00.000,Tech Services,EE,xChange AS,0.18
+2022-01-23 00:00:00.000,Tech Services,CA,Rumble Co.,0.18
+2022-01-23 00:00:00.000,Tech Services,US,Pinterest Inc.,0.17
+2022-01-23 00:00:00.000,Tech Services,US,Flipboard Inc.,0.15
+2022-01-23 00:00:00.000,Tech Services,GB,Cambridge Analytica LLC,0.15
+2022-01-23 00:00:00.000,Tech Services,KY,Tencent Holdings Ltd.,0.13
+2022-01-23 00:00:00.000,Tech Services,US,MicroStrategy Inc.,0.11
+2022-01-23 00:00:00.000,Tech Services,US,Parler LLC,0.11
+2022-01-23 00:00:00.000,Technology,US,Apple Inc.,32.80
+2022-01-23 00:00:00.000,Technology,MX,Samsung Electronics Co. Ltd.,15.60
+2022-01-23 00:00:00.000,Technology,US,Intel Corp.,13.20
+2022-01-23 00:00:00.000,Technology,DE,Siemens AG,9.20
+2022-01-23 00:00:00.000,Technology,US,NVIDIA Corp.,8.00
+2022-01-23 00:00:00.000,Technology,TW,Askey Computer Co. Ltd.,7.60
+2022-01-23 00:00:00.000,Technology,US,Cisco Systems Inc.,4.80
+2022-01-23 00:00:00.000,Technology,TW,Taiwan Semiconductor Manufacturing Co. Ltd.,4.00
+2022-01-23 00:00:00.000,Technology,US,Qualcomm Inc.,4.00
+2022-01-23 00:00:00.000,Technology,CA,Blackline Safety Corp.,2.80
+2022-01-23 00:00:00.000,Technology,US,Texas Instruments Inc.,2.40
+2022-01-23 00:00:00.000,Technology,US,Micron Technology Inc.,2.40
+2022-01-23 00:00:00.000,Technology,JP,Canon Inc.,1.20
+2022-01-23 00:00:00.000,Technology,CN,Huawei Technologies Co. Ltd.,2.00
+2022-01-23 00:00:00.000,Technology,CN,Hisense Company Ltd.,2.00
+2022-01-23 00:00:00.000,Technology,US,ChyronHego Corp.,1.60
+2022-01-23 00:00:00.000,Technology,TW,ASUSTeK Computer Inc.,1.60
+2022-01-23 00:00:00.000,Technology,US,Dell Technologies Inc.,1.60
+2022-01-23 00:00:00.000,Technology,FI,Nokia Corp.,1.60
+2022-01-23 00:00:00.000,Technology,TW,Hon Hai Precision Industry Co. Ltd.,1.60
+2022-01-23 00:00:00.000,Technology,NL,NXP Semiconductors N.V.,1.20
+2022-01-23 00:00:00.000,Technology,US,HP Inc.,1.20
+2022-01-23 00:00:00.000,Technology,US,Advanced Micro Devices Inc.,1.20
+2022-01-23 00:00:00.000,Technology,US,Rambus Inc.,1.20
+2022-01-23 00:00:00.000,Technology,US,NetApp Inc.,1.20
+2022-01-23 00:00:00.000,Technology,NL,ASML Holding N.V.,1.20
+2022-01-23 00:00:00.000,Technology,US,Pure Storage Inc.,1.20
+2022-01-23 00:00:00.000,Technology,CN,Foxconn Industrial Internet Co. Ltd.,1.20
+2022-01-23 00:00:00.000,Technology,US,Genasys Inc.,1.20
+2022-01-23 00:00:00.000,Technology,US,Lam Research Corp.,0.80
+2022-01-23 00:00:00.000,Technology,US,Super Micro Computer Inc.,0.80
+2022-01-23 00:00:00.000,Technology,CH,Logitech International S.A.,0.80
+2022-01-23 00:00:00.000,Technology,IE,Seagate Technology Holdings PLC,0.80
+2022-01-23 00:00:00.000,Technology,TW,Micro-Star International Co. Ltd.,0.80
+2022-01-23 00:00:00.000,Technology,TW,Acer Inc.,0.80
+2022-01-23 00:00:00.000,Technology,JP,SoftBank Group Corp.,0.80
+2022-01-23 00:00:00.000,Technology,US,Automation Anywhere Inc.,0.80
+2022-01-23 00:00:00.000,Technology,US,Trimble Inc.,0.80
+2022-01-23 00:00:00.000,Technology,TW,Giga-Byte Technology Co. Ltd.,0.80
+2022-01-23 00:00:00.000,Technology,DE,Infineon Technologies AG,0.80
+2022-01-23 00:00:00.000,Technology,US,Juniper Networks Inc.,0.80
+2022-01-23 00:00:00.000,Technology,US,OmniVision Technologies Inc.,0.40
+2022-01-23 00:00:00.000,Technology,US,Broadcom Inc.,0.40
+2022-01-23 00:00:00.000,Technology,US,Xerox Holdings Corp.,0.40
+2022-01-23 00:00:00.000,Technology,DK,RTX A/S,0.40
+2022-01-23 00:00:00.000,Technology,ES,Amper S.A.,0.40
+2022-01-23 00:00:00.000,Technology,TW,HTC Corp.,0.40
+2022-01-23 00:00:00.000,Technology,HK,Lenovo Group Ltd.,0.40
+2022-01-23 00:00:00.000,Technology,KR,SK Hynix Inc.,0.40
+2022-01-23 00:00:00.000,Technology,US,KLA Corp.,0.40
+2022-01-23 00:00:00.000,Technology,TW,Microelectronics Technology Inc.,0.40
+2022-01-23 00:00:00.000,Technology,JP,Icom Inc.,0.40
+2022-01-23 00:00:00.000,Technology,US,Semtech Corp.,0.40
+2022-01-23 00:00:00.000,Technology,US,Ultra Clean Holdings Inc.,0.40
+2022-01-23 00:00:00.000,Technology,CN,Semiconductor Manufacturing International Corp.,0.40
+2022-01-23 00:00:00.000,Technology,FR,LaCie S.A.,0.40
+2022-01-23 00:00:00.000,Technology,US,Excite@Home Corp.,0.40
+2022-01-23 00:00:00.000,Technology,JP,Mitsubishi Electric Corp.,0.40
+2022-01-23 00:00:00.000,Technology,CA,Nortel Networks Corp.,0.40
+2022-01-23 00:00:00.000,Technology,SE,A Brand New World AB,0.40
+2022-01-23 00:00:00.000,Technology,TW,Topshine Electronics Corp.,0.40
+2022-01-23 00:00:00.000,Technology,US,Cobra Electronics Corp.,0.40
+2022-01-23 00:00:00.000,Technology,US,Midland Radio Corp.,0.40
+2022-01-23 00:00:00.000,Technology,US,Western Digital Corp.,0.40
+2022-01-23 00:00:00.000,Technology,CH,Garmin Ltd.,0.40
+2022-01-23 00:00:00.000,Technology,US,TransAct Technologies Inc.,0.40
+2022-01-23 00:00:00.000,Technology,JP,Uniden Corp.,0.40
+2022-01-23 00:00:00.000,Technology,IL,NICE Ltd.,0.40
+2022-01-23 00:00:00.000,Technology,US,Motorola Solutions Inc.,0.40
+2022-01-23 00:00:00.000,Technology,BM,Marvell Technology Inc.,0.40
+2022-01-23 00:00:00.000,Technology,US,L3Harris Technologies Inc.,0.40
+2022-01-23 00:00:00.000,Technology,CA,Metacontinental Inc.,0.40
+2022-01-23 00:00:00.000,Telecom,US,AT&T Inc.,74.05
+2022-01-23 00:00:00.000,Telecom,US,Verizon Communications Inc.,10.12
+2022-01-23 00:00:00.000,Telecom,US,Lumen Technologies Inc.,6.21
+2022-01-23 00:00:00.000,Telecom,US,Zoom Video Communications Inc.,5.31
+2022-01-23 00:00:00.000,Telecom,BM,Digicel Group Ltd.,1.70
+2022-01-23 00:00:00.000,Telecom,US,Business Wire Inc.,1.00
+2022-01-23 00:00:00.000,Telecom,RU,Rostelecom PJSC,0.60
+2022-01-23 00:00:00.000,Telecom,CA,BCE Inc.,0.50
+2022-01-23 00:00:00.000,Telecom,US,NTelos Inc.,0.30
+2022-01-23 00:00:00.000,Telecom,IN,Bharat Sanchar Nigam Ltd.,0.30
+2022-01-23 00:00:00.000,Telecom,CA,Quebecor Inc.,0.30
+2022-01-23 00:00:00.000,Telecom,KE,Safaricom PLC,0.20
+2022-01-23 00:00:00.000,Telecom,PH,PLDT Inc.,0.20
+2022-01-23 00:00:00.000,Telecom,IN,Vodafone Idea Ltd.,0.20
+2022-01-23 00:00:00.000,Telecom,JP,Softbank Corp.,0.20
+2022-01-23 00:00:00.000,Telecom,US,Bell Telephone Co.,0.20
+2022-01-23 00:00:00.000,Telecom,IN,Bharti Airtel Ltd.,0.20
+2022-01-23 00:00:00.000,Telecom,JP,SoftBank Group Corp.,0.20
+2022-01-23 00:00:00.000,Telecom,ES,Telefonica S.A.,0.20
+2022-01-23 00:00:00.000,Telecom,IL,Bezeq The Israel Telecommunication Corp. Ltd.,0.20
+2022-01-23 00:00:00.000,Telecom,AE,Emirates Telecommunications Group Co. PJSC,0.10
+2022-01-23 00:00:00.000,Telecom,JP,Nippon Telegraph and Telephone Corp.,0.10
+2022-01-23 00:00:00.000,Telecom,ZA,Telkom SA SOC Ltd.,0.10
+2022-01-23 00:00:00.000,Telecom,GB,Vodafone Group PLC,0.10
+2022-01-23 00:00:00.000,Telecom,KR,KT Corp.,0.10
+2022-01-23 00:00:00.000,Telecom,IN,Tata Communications Ltd.,0.10
+2022-01-23 00:00:00.000,Telecom,HK,China Mobile Ltd.,0.10
+2022-01-23 00:00:00.000,Telecom,MY,Maxis Bhd.,0.10
+2022-01-23 00:00:00.000,Telecom,AU,Telstra Corp. Ltd.,0.10
+2022-01-23 00:00:00.000,Telecom,US,T-Mobile US Inc.,0.10
+2022-01-23 00:00:00.000,Telecom,DE,Deutsche Telekom AG,0.10
+2022-01-23 00:00:00.000,Telecom,CA,TELUS Corp.,0.10
+2022-01-23 00:00:00.000,Telecom,US,U.S. Cellular Corp.,0.10
+2022-01-23 00:00:00.000,Telecom,FR,Eutelsat Communications SA,0.10
+2022-01-23 00:00:00.000,Telecom,HK,China Unicom (Hong Kong) Ltd.,0.10
+2022-01-23 00:00:00.000,Telecom,PK,Pakistan Telecommunication Co. Ltd.,0.10
+2022-01-23 00:00:00.000,Telecom,US,Telephone & Data Systems Inc.,0.10
+2022-01-23 00:00:00.000,Telecom,SA,Saudi Telecom Co.,0.10
+2022-01-23 00:00:00.000,Telecom,US,8X8 Inc.,0.10
+2022-01-23 00:00:00.000,Telecom,SE,Telia Company AB,0.10
+2022-01-23 00:00:00.000,Telecom,SG,Singapore Telecommunications Ltd.,0.10
+2022-01-23 00:00:00.000,Telecom,US,Intelsat S.A.,0.10
+2022-01-23 00:00:00.000,Telecom,ZA,MTN Group Ltd.,0.10
+2022-01-23 00:00:00.000,Telecom,ZA,Vodacom Group,0.10

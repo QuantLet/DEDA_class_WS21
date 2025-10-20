@@ -8,3 +8,5 @@
  Keywords:            'spatial analysis, geocoding, maps, geodata, coordinates, distance'
 
  Author[New]:         Ivan Kotik
+
+ Submitted:           01.03.2022
